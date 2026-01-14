@@ -1,0 +1,1526 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[MOVE_NAMES]
+Megahorn
+Vielender
+Attack Order
+Schlagbefehl
+Bug Buzz
+Käfergebrumm
+First Impression
+Überrumpler
+Pollen Puff
+Pollenknödel
+Leech Life
+Blutsauger
+Lunge
+Anfallen
+X-Scissor
+X-Scissor
+Signal Beam
+Ampelleuchte
+Skitter Smack
+Krabbelkracher
+U-turn
+Kehrtwende
+Steamroller
+Quetschwalze
+Bug Bite
+Käferbiss
+Silver Wind
+Silberhauch
+Fell Stinger
+Stachelfinale
+Struggle Bug
+Käfertrutz
+Fury Cutter
+Zornklinge
+Pin Missile
+Pin Missile
+Twineedle
+Duonadel
+Infestation
+Plage
+Defend Order
+Blockbefehl
+Heal Order
+Heilbefehl
+Powder
+Pulverschleuder
+Quiver Dance
+Falterreigen
+Rage Powder
+Wulpulver
+Spider Web
+Spinnennetz
+Sticky Web
+Klebenetz
+String Shot
+Fadenschuss
+Tail Glow
+Schweifglanz
+Hyperspace Fury
+Dimensionswahn
+Foul Play
+Schmarotzer
+Fiery Wrath
+Brennender Zorn
+Darkest Lariat
+Dark Lariat
+Night Daze
+Nachtflut
+Crunch
+Knirscher
+Dark Pulse
+Finsteraura
+False Surrender
+Kniefalltrick
+Jaw Lock
+Fesselbiss
+Throat Chop
+Neck Strike
+Wicked Blow
+Finstertreffer
+Lash Out
+Frustventil
+Night Slash
+Nachthieb
+Sucker Punch
+Tiefschlag
+Knock Off
+Abschlag
+Assurance
+Gewissheit
+Bite
+Biss
+Brutal Swing
+Wirbler
+Feint Attack
+Finte
+Faint Attack
+Faint Attack
+Thief
+Raub
+Snarl
+Standpauke
+Payback
+Gegenstoß
+Pursuit
+Verfolgung
+Beat Up
+Prügler
+Fling
+Schleuder
+Power Trip
+Überheblichkeit
+Punishment
+Strafattacke
+Dark Void
+Schlummerort
+Embargo
+Itemsperre
+Fake Tears
+Trugträne
+Flatter
+Schmeichler
+Hone Claws
+Klauenwetzer
+Memento
+Memento-Mori
+Nasty Plot
+Ränkeschmied
+Obstruct
+Abblocker
+Parting Shot
+Abgangstirade
+Quash
+Verzögerung
+Snatch
+Übernahme
+Switcheroo
+Wechseldich
+Taunt
+Verhöhner
+Topsy-Turvy
+Invertigo
+Torment
+Folterknecht
+Eternabeam
+Unendynastrahlen
+Dragon Energy
+Drachenkräfte
+Roar of Time
+Zeitenlärm
+Draco Meteor
+Draco Meteor
+Outrage
+Wutanfall
+Clanging Scales
+Schuppenrasseln
+Core Enforcer
+Sanktionskern
+Dragon Rush
+Drachenstoß
+Dynamax Cannon
+Dynamax-Kanone
+Spacial Rend
+Raumschlag
+Dragon Hammer
+Drachenhammer
+Dragon Pulse
+Drachenpuls
+Dragon Claw
+Drachenklaue
+Breaking Swipe
+Breitseite
+Dragon Breath
+Feuerodem
+DragonBreath
+DragonBreath
+Dragon Tail
+Drachenrute
+Dragon Darts
+Drachenpfeile
+Dual Chop
+Doppelhieb
+Twister
+Windhose
+Scale Shot
+Schuppenschuss
+Dragon Rage
+Drachenwut
+Clangorous Soul
+Seelentanz
+Dragon Dance
+Drachentanz
+Bolt Strike
+Blitzschlag
+Volt Tackle
+Volttackle
+Zap Cannon
+Blitzkanone
+Aura Wheel
+Aura-Rad
+Thunder
+Donner
+Fusion Bolt
+Kreuzdonner
+Plasma Fists
+Plasmafäuste
+Thunderbolt
+Donnerblitz
+Wild Charge
+Stromstoß
+Bolt Beak
+Schockschnabel
+Discharge
+Ladungsstoß
+Overdrive
+Overdrive
+Thunder Cage
+Blitzgefängnis
+Zing Zap
+Elektropikser
+Thunder Punch
+Donnerschlag
+ThunderPunch
+ThunderPunch
+Rising Voltage
+Hochspannung
+Volt Switch
+Voltwechsel
+Parabolic Charge
+Parabolladung
+Spark
+Funkensprung
+Thunder Fang
+Donnerzahn
+Shock Wave
+Schockwelle
+Electroweb
+Elektronetz
+Charge Beam
+Ladestrahl
+Thunder Shock
+Donnerschock
+ThunderShock
+ThunderShock
+Nuzzle
+Wangenrubbler
+Electro Ball
+Elektroball
+Charge
+Ladevorgang
+Eerie Impulse
+Mystowellen
+Electric Terrain
+Elektrofeld
+Electrify
+Elektrifizierung
+Ion Deluge
+Plasmaschauer
+Magnet Rise
+Magnetflug
+Magnetic Flux
+Magnetregler
+Thunder Wave
+Donnerwelle
+Light of Ruin
+Lux Calamitatis
+Fleur Cannon
+Kanonenbouquet
+Misty Explosion
+Nebelexplosion
+Moonblast
+Mondgewalt
+Play Rough
+Knuddler
+Strange Steam
+Wunderdampf
+Dazzling Gleam
+Zauberschein
+Spirit Break
+Seelenbruch
+Draining Kiss
+Diebeskuss
+Disarming Voice
+Säuselstimme
+Fairy Wind
+Feenbrise
+Nature's Madness
+Naturzorn
+Aromatic Mist
+Duftwolke
+Baby-Doll Eyes
+Kulleraugen
+Charm
+Charme
+Crafty Shield
+Trickschutz
+Decorate
+Verzierung
+Fairy Lock
+Feenschloss
+Floral Healing
+Florakur
+Flower Shield
+Floraschutz
+Geomancy
+Geokontrolle
+Misty Terrain
+Nebelfeld
+Moonlight
+Mondschein
+Sweet Kiss
+Bitterkaus
+Focus Punch
+Power-Punch
+Meteor Assault
+Sternensturm
+High Jump Kick
+Turmkick
+Hi Jump Kick
+Hi Jump Kick
+Close Combat
+Nahkampf
+Focus Blast
+Fokusstoß
+Superpower
+Kraftkoloss
+Cross Chop
+Kreuzhieb
+Dynamic Punch
+Wuchtschlag
+DynamicPunch
+DynamicPunch
+Flying Press
+Flying Press
+Hammer Arm
+Hammerarm
+Jump Kick
+Sprungkick
+Sacred Sword
+Sanctoklinge
+Thunderous Kick
+Donnernder Tritt
+Secret Sword
+Mystoschwert
+Sky Uppercut
+Himmelhieb
+Aura Sphere
+Aurasphäre
+Body Press
+Body Press
+Submission
+Überroller
+Brick Break
+Durchbruch
+Drain Punch
+Ableithieb
+Vital Throw
+Überwurf
+Wake-Up Slap
+Weckruf
+Low Sweep
+Fußtritt
+Circle Throw
+Überkopfwurf
+Force Palm
+Kraftwelle
+Revenge
+Vergeltung
+Rolling Kick
+Fegekick
+Storm Throw
+Bergsturm
+Karate Chop
+Karateschlag
+Mach Punch
+Tempohieb
+Power-Up Punch
+Steigerungshieb
+Rock Smash
+Zertrümmerer
+Vacuum Wave
+Vakuumwelle
+Double Kick
+Doppelkick
+Arm Thrust
+Armstoß
+Triple Kick
+Dreifachkick
+Counter
+Konter
+Final Gambit
+Wagemut
+Low Kick
+Fußkick
+Reversal
+Gegenschlag
+Seismic Toss
+Geowurf
+Bulk Up
+Protzer
+Coaching
+Coaching
+Detect
+Scanner
+Mat Block
+Tatami-Schild
+No Retreat
+Finalformation
+Octolock
+Octoklammer
+Quick Guard
+Rapidschutz
+V-create
+V-Generator
+Blast Burn
+Lohekanonade
+Eruption
+Eruption
+Mind Blown
+Knallkopf
+Shell Trap
+Panzerfalle
+Blue Flare
+Blauflammen
+Burn Up
+Ausbrennen
+Overheat
+Hitzekoller
+Flare Blitz
+Flammenblitz
+Pyro Ball
+Feuerball
+Fire Blast
+Feuersturm
+Fusion Flare
+Kreuzflamme
+Inferno
+Inferno
+Magma Storm
+Lavasturm
+Sacred Fire
+Läuterfeuer
+Searing Shot
+Flammenball
+Heat Wave
+Hitzewelle
+Flamethrower
+Flammenwurf
+Blaze Kick
+Feuerfeger
+Fiery Dance
+Feuerreigen
+Fire Lash
+Feuerpeitsche
+Fire Pledge
+Feuersäulen
+Lava Plume
+Flammensturm
+Fire Punch
+Feuerschlag
+Mystical Fire
+Magieflamme
+Burning Jealousy
+Neidflammen
+Flame Burst
+Funkenflug
+Fire Fang
+Feuerzahn
+Flame Wheel
+Flammenrad
+Incinerate
+Einäschern
+Flame Charge
+Nitroladung
+Ember
+Glut
+Fire Spin
+Feuerwirbel
+Heat Crash
+Brandstempel
+Sunny Day
+Sonnentag
+Will-O-Wisp
+Irrlicht
+Sky Attack
+Himmelsfeger
+Brave Bird
+Sturzflug
+Dragon Ascent
+Zenitstürmer
+Hurricane
+Orkan
+Aeroblast
+Luftstoß
+Beak Blast
+Schnabelkanone
+Fly
+Fliegen
+Bounce
+Sprungfeder
+Drill Peck
+Bohrschnabel
+Oblivion Wing
+Unheilsschwingen
+Air Slash
+Luftschnitt
+Chatter
+Geschwätz
+Aerial Ace
+Aero-Ass
+Air Cutter
+Windschnitt
+Pluck
+Pflücker
+Sky Drop
+Freier Fall
+Wing Attack
+Flügelschlag
+Acrobatics
+Acrobatik
+Dual Wingbeat
+Doppelflügel
+Gust
+Windstoß
+Peck
+Pikser
+Defog
+Auflockern
+Feather Dance
+Daunenreigen
+FeatherDance
+FeatherDance
+Mirror Move
+Spiegeltrick
+Roost
+Ruheort
+Tailwind
+Rückenwind
+Astral Barrage
+Astralfragmente
+Shadow Force
+Schemenkraft
+Poltergeist
+Poltergeist
+Moongeist Beam
+Schattenstrahl
+Phantom Force
+Phantomkraft
+Spectral Thief
+Diebesschatten
+Shadow Bone
+Schattenknochen
+Shadow Ball
+Spukball
+Spirit Shackle
+Schattenfessel
+Shadow Claw
+Dunkelklaue
+Hex
+Bürde
+Ominous Wind
+Unheilböen
+Shadow Punch
+Finsterfaust
+Shadow Sneak
+Schattenstoß
+Astonish
+Erstauner
+Lick
+Schlecker
+Night Shade
+Nachtnebel
+Confuse Ray
+Konfusstrahl
+Curse
+Fluch
+Destiny Bond
+Abgangsbund
+Grudge
+Nachspiel
+Nightmare
+Nachtmahr
+Spite
+Groll
+Trick-or-Treat
+Halloween
+Frenzy Plant
+Flora-Statue
+Leaf Storm
+Blättersturm
+Solar Blade
+Solarklinge
+Petal Dance
+Blättertanz
+Power Whip
+Blattgeißel
+Seed Flare
+Schocksamen
+Solar Beam
+Solarstrahl
+Wood Hammer
+Holzhammer
+Energy Ball
+Energieball
+Leaf Blade
+Laubklinge
+Petal Blizzard
+Blütenwirbel
+Apple Acid
+Apfelsäure
+Drum Beating
+Trommelschläge
+Grass Pledge
+Pflanzensäulen
+Grav Apple
+Gravitation
+Seed Bomb
+Samenbomben
+Giga Drain
+Gigasauger
+Horn Leech
+Holzgeweih
+Grassy Glide
+Grasrutche
+Trop Kick
+Tropenkick
+Leaf Tornado
+Grasmixer
+Magical Leaf
+Zauberblatt
+Needle Arm
+Nietenranke
+Razor Leaf
+Rasierblatt
+Vine Whip
+Rankenhieb
+Branch Poke
+Zweigstoß
+Leafage
+Blattwerk
+Mega Drain
+Megasauger
+Snap Trap
+Fangeisen
+Bullet Seed
+Kugelsaat
+Absorb
+Absorber
+Grass Knot
+Strauchler
+Aromatherapy
+Aromakur
+Cotton Guard
+Watteschild
+Cotton Spore
+Baumwollsaat
+Forest's Curse
+Waldesfluch
+Grass Whistle
+Grasflöte
+GrassWhistle
+GrassWhistle
+Grassy Terrain
+Grasfeld
+Ingrain
+Verwurzler
+Jungle Healing
+Dschungelheilung
+Leech Seed
+Egelsamen
+Sleep Powder
+Schlafpuder
+Spiky Shield
+Schutzstacheln
+Spore
+Pilzspore
+Strength Sap
+Kraftabsorber
+Stun Spore
+Stachelspore
+Synthesis
+Synthese
+Worry Seed
+Sorgensamen
+Precipice Blades
+Abgrundsklinge
+Earthquake
+Erdbeben
+High Horsepower
+Pferdestärke
+Earth Power
+Erdkräfte
+Land's Wrath
+Bodengewalt
+Thousand Arrows
+Tausend Pfeile
+Thousand Waves
+Tausend Wellen
+Dig
+Schaufler
+Drill Run
+Schlagbohrer
+Stomping Tantrum
+Fruststampfer
+Scorching Sands
+Brandsand
+Bone Club
+Knochenkeule
+Mud Bomb
+Schlammbombe
+Bulldoze
+Dampfwalze
+Mud Shot
+Lehmschuss
+Bonemerang
+Bonemerang
+Sand Tomb
+Sandgrab
+Bone Rush
+Knochenhatz
+Mud-Slap
+Lehmschelle
+Fissure
+Geofissur
+Magnitude
+Intensität
+Mud Sport
+Lehmsuhler
+Rototiller
+Pflüger
+Sand Attack
+Sandwirbel
+Sand-Attack
+Sand-Attack
+Shore Up
+Sandsammler
+Spikes
+Stachler
+Freeze Shock
+Frostvolt
+Ice Burn
+Frosthauch
+Glacial Lance
+Blizzardlanze
+Blizzard
+Blizzard
+Ice Hammer
+Eishammer
+Ice Beam
+Eisstrahl
+Icicle Crash
+Eiszapfhagel
+Ice Punch
+Eishieb
+Freeze-Dry
+Gefriertrockner
+Aurora Beam
+Aurorastrahl
+Glaciate
+Eiszeit
+Ice Fang
+Eiszahn
+Avalanche
+Lawine
+Frost Breath
+Eisesodem
+Icy Wind
+Eissturm
+Ice Shard
+Eissplitter
+Powder Snow
+Pulverschnee
+Ice Ball
+Frostbeule
+Icicle Spear
+Eisspeer
+Triple Axel
+Dreifach-Axel
+Sheer Cold
+Eiseskälte
+Aurora Veil
+Auroraschleier
+Hail
+Hagelsturm
+Haze
+Dunkelnebel
+Mist
+Weißnebel
+Explosion
+Explosion
+Self-Destruct
+Finale
+Selfdestruct
+Selfdestruct
+Giga Impact
+Gigastoß
+Hyper Beam
+Hyperstrahl
+Boomburst
+Überschallknall
+Last Resort
+Zuflucht
+Skull Bash
+Schädelwumme
+Double-Edge
+Risikotackle
+Head Charge
+Steinschädel
+Mega Kick
+Megakick
+Multi-Attack
+Multi-Angriff
+Techno Blast
+Techblaster
+Thrash
+Fuchtler
+Egg Bomb
+Eierbombe
+Judgment
+Urteilskraft
+Hyper Voice
+Schallwelle
+Revelation Dance
+Wecktanz
+Rock Climb
+Kraxler
+Take Down
+Bodycheck
+Uproar
+Aufruhr
+Body Slam
+Bodyslam
+Extreme Speed
+Turbotempo
+ExtremeSpeed
+ExtremeSpeed
+Hyper Fang
+Hyperzahn
+Mega Punch
+Megahieb
+Razor Wind
+Klingensturm
+Slam
+Slam
+Strength
+Stärke
+Tri Attack
+Triplette
+Crush Claw
+Zermalmklaue
+Relic Song
+Urgesang
+Chip Away
+Zermürben
+Dizzy Punch
+Irrschlag
+Facade
+Fassade
+Headbutt
+Kopfnuss
+Retaliate
+Heimzahlung
+Secret Power
+Geheimpower
+Slash
+Schlitzer
+Smelling Salts
+Riechsalz
+SmellingSalt
+SmellingSalt
+Horn Attack
+Hornattacke
+Stomp
+Stampfer
+Covet
+Bezirzer
+Hidden Power
+Kraftreserve
+Round
+Kanon
+Swift
+Sternschauer
+Vise Grip
+Klammer
+Vice Grip
+Vice Grip
+ViceGrip
+ViceGrip
+Cut
+Zerschneider
+Rapid Spin
+Turbodreher
+Snore
+Schnarcher
+Terrain Pulse
+Feldimpuls
+Weather Ball
+Meteorologe
+Echoed Voice
+Widerfall
+Fake Out
+Mogelhieb
+False Swipe
+Trugschlag
+Hold Back
+Zurückhaltung
+Pay Day
+Zahltag
+Pound
+Klaps
+Quick Attack
+Ruckzuckhieb
+Scratch
+Kratzer
+Tackle
+Tackle
+Double Hit
+Doppelschlag
+Feint
+Offenlegung
+Tail Slap
+Kehrschelle
+Rage
+Raserei
+Spike Cannon
+Dornkanone
+Comet Punch
+Kometenhieb
+Fury Swipes
+Kratzfurie
+Barrage
+Stakkato
+Bind
+Klammergriff
+Double Slap
+Duplexhieb
+DoubleSlap
+DoubleSlap
+Fury Attack
+Furienschlag
+Wrap
+Wickel
+Constrict
+Umklammerung
+Bide
+Geduld
+Crush Grip
+Quetschgriff
+Endeavor
+Notsituation
+Flail
+Dreschflegel
+Frustration
+Frustration
+Guillotine
+Guillotine
+Horn Drill
+Hornbohrer
+Natural Gift
+Beerenkräfte
+Present
+Geschenk
+Return
+Rückkehr
+Sonic Boom
+Ultraschall
+SonicBoom
+SonicBoom
+Spit Up
+Entfessler
+Super Fang
+Superzahn
+Trump Card
+Trumpfkarte
+Wring Out
+Auswringen
+Acupressure
+Akupressur
+After You
+Galanterie
+Assist
+Zuschuss
+Attract
+Anziehung
+Baton Pass
+Stafette
+Belly Drum
+Bauchtrommel
+Bestow
+Offerte
+Block
+Rückentzug
+Camouflage
+Tarnung
+Captivate
+Liebreiz
+Celebrate
+Ehrentag
+Confide
+Vertrauenssache
+Conversion
+Umwandlung
+Conversion 2
+Umwandlung2
+Copycat
+Imitator
+Court Change
+Seitenwechsel
+Defense Curl
+Einigler
+Disable
+Aussetzer
+Double Team
+Doppelteam
+Encore
+Zugabe
+Endure
+Ausdauer
+Entrainment
+Zwango
+Flash
+Blitz
+Focus Energy
+Energiefokus
+Follow Me
+Spotlight
+Foresight
+Scharfblick
+Glare
+Schlangenblick
+Growl
+Heuler
+Growth
+Wachstum
+Happy Hour
+Goldene Zeiten
+Harden
+Härtner
+Heal Bell
+Vitalglocke
+Helping Hand
+Rechte Hand
+Hold Hands
+Händchenhalten
+Howl
+Jauler
+Laser Focus
+Konzentration
+Leer
+Silberblick
+Lock-On
+Zielschuss
+Lovely Kiss
+Todeskuss
+Lucky Chant
+Beschwörung
+Me First
+Egotrip
+Mean Look
+Horrorblick
+Metronome
+Metronom
+Milk Drink
+Milchgetränk
+Mimic
+Mimikry
+Mind Reader
+Willensleser
+Minimize
+Komprimator
+Morning Sun
+Morgengrauen
+Nature Power
+Natur-Kraft
+Noble Roar
+Kampfgebrüll
+Odor Sleuth
+Schnüffler
+Pain Split
+Leidteiler
+Perish Song
+Abgesang
+Play Nice
+Kameradschaft
+Protect
+Schutzschild
+Psych Up
+Psycho-Plus
+Recover
+Genesung
+Recycle
+Aufbereitung
+Reflect Type
+Typenspiegel
+Refresh
+Heilung
+Roar
+Brüller
+Safeguard
+Bodyguard
+Scary Face
+Grimasse
+Screech
+Kreideschrei
+Sharpen
+Schärfer
+Shell Smash
+Hausbruch
+Simple Beam
+Wankelstrahl
+Sing
+Gesang
+Sketch
+Nachahmer
+Slack Off
+Tagedieb
+Sleep Talk
+Schlafrede
+Smokescreen
+Rauchwolke
+SmokeScreen
+SmokeScreen
+Soft-Boiled
+Weichei
+Softboiled
+Softboiled
+Splash
+Platscher
+Spotlight
+Rampenlicht
+Stockpile
+Horter
+Stuff Cheeks
+Backenstopfer
+Substitute
+Delegator
+Supersonic
+Superschall
+Swagger
+Angeberei
+Swallow
+Verzehrer
+Sweet Scent
+Lockduft
+Swords Dance
+Schwerttanz
+Tail Whip
+Rutenschlag
+Tearful Look
+Tränendrüse
+Teatime
+Teatime
+Teeter Dance
+Taumeltanz
+Tickle
+Spaßkanone
+Transform
+Wandler
+Whirlwind
+Wirbelwind
+Wish
+Wunschtraum
+Work Up
+Kraftschub
+Yawn
+Gähner
+Belch
+Rülpser
+Gunk Shot
+Mülltreffer
+Sludge Wave
+Schlammwoge
+Shell Side Arm
+Muschelwaffe
+Sludge Bomb
+Matschbombe
+Poison Jab
+Gifthieb
+Cross Poison
+Giftstreich
+Sludge
+Schlammbad
+Venoshock
+Giftschock
+Clear Smog
+Klärsmog
+Poison Fang
+Giftzahn
+Poison Tail
+Giftschweif
+Acid
+Säure
+Acid Spray
+Säurespeier
+Smog
+Smog
+Poison Sting
+Giftstachel
+Acid Armor
+Säurepanzer
+Baneful Bunker
+Bunker
+Coil
+Einrollen
+Corrosive Gas
+Korrosionsgas
+Gastro Acid
+Magensäfte
+Poison Gas
+Giftwolke
+Poison Powder
+Giftpuder
+PoisonPowder
+PoisonPowder
+Purify
+Läuterung
+Toxic
+Toxin
+Toxic Spikes
+Giftspitzen
+Toxic Thread
+Giftfaden
+Venom Drench
+Giftfalle
+Prismatic Laser
+Prisma-Laser
+Psycho Boost
+Psyschub
+Future Sight
+Seher
+Synchronoise
+Synchrolärm
+Dream Eater
+Traumfresser
+Photon Geyser
+Photonen-Geysir
+Psystrike
+Psychostoß
+Freezing Glare
+Eisiger Blick
+Psychic
+Psychokinese
+Psychic Fangs
+Psychobeißer
+Eerie Spell
+Schauderspruch
+Expanding Force
+Flächenmacht
+Extrasensory
+Sondersensor
+Hyperspace Hole
+Dimensionsloch
+Psyshock
+Psychoshock
+Zen Headbutt
+Zen-Kopfstoß
+Luster Purge
+Scheinwerfer
+Mist Ball
+Nebelball
+Psycho Cut
+Psychoklinge
+Psybeam
+Psystrahl
+Heart Stamp
+Herzstempel
+Confusion
+Konfusion
+Stored Power
+Kraftvorrat
+Mirror Coat
+Spiegelcape
+Psywave
+Psywelle
+Agility
+Agilität
+Ally Switch
+Seitentausch
+Amnesia
+Amnesie
+Barrier
+Barriere
+Calm Mind
+Gedankengut
+Cosmic Power
+Kosmik-Kraft
+Gravity
+Erdanziehung
+Guard Split
+Schutzteiler
+Guard Swap
+Schutztausch
+Heal Block
+Heilblockade
+Heal Pulse
+Heilwoge
+Healing Wish
+Heilopfer
+Heart Swap
+Statustausch
+Hypnosis
+Hypnose
+Imprison
+Begrenzer
+Instruct
+Kommando
+Kinesis
+Psykraft
+Light Screen
+Lichtschild
+Lunar Dance
+Lunartanz
+Magic Coat
+Magiemantel
+Magic Powder
+Magiepuder
+Magic Room
+Magieraum
+Meditate
+Meditation
+Miracle Eye
+Wunderauge
+Power Split
+Kraftteiler
+Power Swap
+Krafttausch
+Power Trick
+Krafttrick
+Psychic Terrain
+Psychofeld
+Psycho Shift
+Psybann
+Reflect
+Reflecktor
+Rest
+Erholung
+Role Play
+Rollenspiel
+Skill Swap
+Fähigkeitstausch
+Speed Swap
+Initiativetausch
+Telekinesis
+Telekinese
+Teleport
+Teleport
+Trick
+Trickbetrug
+Trick Room
+Bizarroraum
+Wonder Room
+Wunderraum
+Head Smash
+Kopfstoß
+Rock Wrecker
+Felswerfer
+Meteor Beam
+Meteorstrahl
+Diamond Storm
+Diamantsturm
+Stone Edge
+Steinkante
+Power Gem
+Juwelenkraft
+Rock Slide
+Steinhagel
+Ancient Power
+Antik-Kraft
+AncientPower
+AncientPower
+Rock Tomb
+Felsgrab
+Rock Throw
+Steinwurf
+Smack Down
+Katapult
+Accelerock
+Turbofelsen
+Rollout
+Walzer
+Rock Blast
+Felswurf
+Rock Polish
+Steinpolitur
+Sandstorm
+Sandsturm
+Stealth Rock
+Tarnstein
+Tar Shot
+Teerschuss
+Wide Guard
+Rundumschutz
+Doom Desire
+Kismetwunsch
+Steel Beam
+Stahlstrahl
+Steel Roller
+Eisenwalze
+Behemoth Bash
+Gigantenstoß
+Behemoth Blade
+Gigantenhieb
+Iron Tail
+Eisenschweif
+Sunsteel Strike
+Stahlgestirn
+Meteor Mash
+Sternenhieb
+Anchor Shot
+Ankerschuss
+Flash Cannon
+Lichtkanone
+Iron Head
+Eisenschädel
+Smart Strike
+Schmalhorn
+Steel Wing
+Stahlflügel
+Double Iron Bash
+Panzerfäuste
+Mirror Shot
+Spiegelsalve
+Magnet Bomb
+Magnetbombe
+Gear Grind
+Klikkdiskus
+Metal Claw
+Metallklaue
+Bullet Punch
+Patronenhieb
+Gyro Ball
+Gyroball
+Heavy Slam
+Rammboss
+Metal Burst
+Metallstoß
+Autotomize
+Autotomie
+Gear Up
+Hilfsmechanik
+Iron Defense
+Eisenabwehr
+King's Shield
+Königsschild
+Metal Sound
+Metalsound
+Shift Gear
+Gangwechsel
+Hydro Cannon
+Aquahaubitze
+Water Spout
+Fontränen
+Hydro Pump
+Hydropumpe
+Origin Pulse
+Ursprungswoge
+Steam Eruption
+Dampfschwall
+Crabhammer
+Krabbhammer
+Aqua Tail
+Nassschweif
+Muddy Water
+Lehmbrühe
+Sparkling Aria
+Schaumserenade
+Surf
+Surfer
+Fishious Rend
+Kiemenbiss
+Liquidation
+Aquadurchstoß
+Dive
+Taucher
+Scald
+Siedewasser
+Snipe Shot
+Präisionsschuss
+Water Pledge
+Wassersäulen
+Waterfall
+Kaskade
+Razor Shell
+Kalkklinge
+Brine
+Lake
+Bubble Beam
+Blubbstrahl
+BubbleBeam
+BubbleBeam
+Octazooka
+Octazooka
+Flip Turn
+Rollwende
+Water Pulse
+Aquawelle
+Aqua Jet
+Wasserdüse
+Bubble
+Bubbler
+Water Gun
+Aquaknarre
+Clamp
+Schnapper
+Whirlpool
+Whirlpool
+Surging Strikes
+Trefferschwall
+Water Shuriken
+Wasser-Shuriken
+Aqua Ring
+Wasserring
+Life Dew
+Lebenstropfen
+Rain Dance
+Regentanz
+Soak
+Überflutung
+Water Sport
+Nassmacher
+Withdraw
+Panzerschutz
