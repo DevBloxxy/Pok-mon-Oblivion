@@ -5,81 +5,81 @@
 A
 A
 Normal Form
-Normal Form
+Normalform
 Normal Forme
 Normal Forme
 Plant Cloak
-Plant Cloak
+Pflanzenumhang
 Overcast Form
-Overcast Form
+Wolkenform
 West Sea
-West Sea
+Westliches Meer
 Rotom
 Rotom
 Altered Forme
-Altered Forme
+Wandelform
 Land Forme
-Land Forme
+Landform
 Normal Type
 Normal Type
 Red-Striped
 Red-Striped
 Standard Mode
-Standard Mode
+Normalmodus
 Spring Form
-Spring Form
+Frühlingsform
 Incarnate Forme
-Incarnate Forme
+Inkarnationsform
 Ordinary Form
-Ordinary Form
+Standardform
 Aria Forme
-Aria Forme
+Gesangsform
 Normal
 Normal
 Archipelago Pattern
-Archipelago Pattern
+Archipelmuster
 Red Flower
-Red Flower
+Rotblütler
 Natural Form
-Natural Form
+Zottelform
 Male
-Male
+Männlich
 Shield Forme
-Shield Forme
+Schildform
 Small Size
-Small Size
+Größe S
 Neutral Mode
-Neutral Mode
+Ruhe-Modus
 50% Forme
-50% Forme
+50%-Zygarde
 Hoopa Confined
-Hoopa Confined
+Gebanntes Hoopa
 Baile Style
-Baile Style
+Flamenco-Stil
 Midday Form
-Midday Form
+Tagform
 Solo Form
-Solo Form
+Einzelform
 Type: Normal
-Type: Normal
+Typ: Normal
 Meteor Form
-Meteor Form
+Meteorform
 Disguised Form
-Disguised Form
+Verkleidete Form
 Amped Form
-Amped Form
+Hoch-Form
 Phony Form
-Phony Form
+Fälschungsform
 Vanilla Cream
-Vanilla Cream
+Vanille-Creme
 Ice Face
-Ice Face
+Tiefkühlkopf
 Full Belly Mode
-Full Belly Mode
+Pappsattmuster
 Hero of Many Battles
-Hero of Many Battles
+Heldenhafter Krieger
 Single Strike Style
-Single Strike Style
+Fokussierten Stil
 Mega Venusaur
 Mega Venusaur
 Mega Charizard X
@@ -207,11 +207,11 @@ Mega Camerupt
 Mega Altaria
 Mega Altaria
 Sunny Form
-Sunny Form
+Sonnenform
 Rainy Form
-Rainy Form
+Regenform
 Snowy Form
-Snowy Form
+Schneeform
 Mega Banette
 Mega Banette
 Mega Absol
@@ -233,19 +233,19 @@ Primal Groudon
 Mega Rayquaza
 Mega Rayquaza
 Attack Forme
-Attack Forme
+Angriffsform
 Defense Forme
 Defense Forme
 Speed Forme
+Initiativeform
+Sandy Cloak
+Sandumhang
+Trash Cloak
+Lumpenumhang
+Sunshine Form
 Speed Forme
-Sandy Cloak
-Sandy Cloak
-Trash Cloak
-Trash Cloak
-Sunshine Form
-Sunshine Form
 East Sea
-East Sea
+Östliches Meer
 Mega Lopunny
 Mega Lopunny
 Mega Garchomp
@@ -257,19 +257,19 @@ Mega Abomasnow
 Mega Gallade
 Mega Gallade
 Heat Rotom
-Heat Rotom
+Hitze-Rotom
 Wash Rotom
-Wash Rotom
+Wasch-Rotom
 Frost Rotom
-Frost Rotom
+Frost-Rotom
 Fan Rotom
-Fan Rotom
+Wirbel-Rotom
 Mow Rotom
-Mow Rotom
+Schneid-Rotom
 Origin Forme
-Origin Forme
+Urform
 Sky Forme
-Sky Forme
+Zenitform
 Fighting Type
 Fighting Type
 Flying Type
@@ -311,27 +311,27 @@ Mega Audino
 Blue-Striped
 Blue-Striped
 Zen Mode
-Zen Mode
+Trance-Modus
 Galarian Standard Mode
 Galarian Standard Mode
 Galarian Zen Mode
 Galarian Zen Mode
 Summer Form
-Summer Form
+Sommerform
 Autumn Form
-Autumn Form
+Herbstform
 Winter Form
-Winter Form
+Winterform
 Therian Forme
-Therian Forme
+Tiergeistform
 White Kyurem
-White Kyurem
+Weißes Kyurem
 Black Kyurem
-Black Kyurem
+Schwarzes Kyurem
 Resolute Form
-Resolute Form
+Resolutform
 Pirouette Forme
-Pirouette Forme
+Tanzform
 Shock Drive
 Shock Drive
 Burn Drive
@@ -343,198 +343,198 @@ Douse Drive
 Ash-Greninja
 Ash-Greninja
 Continental Pattern
-Continental Pattern
+Kontinentalmuster
 Elegant Pattern
-Elegant Pattern
+Prunkmuster
 Garden Pattern
-Garden Pattern
+Ziergartenmuster
 High Plains Pattern
-High Plains Pattern
+Dürremuster
 Icy Snow Pattern
-Icy Snow Pattern
+Frostmuster
 Jungle Pattern
-Jungle Pattern
+Dschungelmuster
 Marine Pattern
-Marine Pattern
+Aquamarinmuster
 Meadow Pattern
-Meadow Pattern
+Blumenmeermuster
 Modern Pattern
-Modern Pattern
+Innovationmuster
 Monsoon Pattern
-Monsoon Pattern
+Monsunmuster
 Ocean Pattern
-Ocean Pattern
+Ozeanmuster
 Polar Pattern
-Polar Pattern
+Schneefeldmuster
 River Pattern
-River Pattern
+Flussdeltamuster
 Sandstorm Pattern
-Sandstorm Pattern
+Sandmuster
 Savanna Pattern
-Savanna Pattern
+Savannenmuster
 Sun Pattern
-Sun Pattern
+Sonnenmuster
 Tundra Pattern
-Tundra Pattern
+Flockenmuster
 Fancy Pattern
-Fancy Pattern
+Fantasiemuster
 Poké Ball Pattern
-Poké Ball Pattern
+Pañuelo Amarillo-Muster
 Yellow Flower
-Yellow Flower
+Gelbblütler
 Orange Flower
-Orange Flower
+Orangeblütler
 Blue Flower
-Blue Flower
+Blaublütler
 White Flower
-White Flower
+Weißblütler
 Eternal Flower
-Eternal Flower
+Ewigblütler
 Heart Trim
-Heart Trim
+Herzchenschnitt
 Star Trim
-Star Trim
+Sternchenschnitt
 Diamond Trim
-Diamond Trim
+Diamantenschnitt
 Debutante Trim
-Debutante Trim
+Fräuleinschnitt
 Matron Trim
-Matron Trim
+Damenschnitt
 Dandy Trim
-Dandy Trim
+Kavaliersschnitt
 La Reine Trim
-La Reine Trim
+Königinnenschnitt
 Kabuki Trim
-Kabuki Trim
+Kabuki-Schnitt
 Pharaoh Trim
-Pharaoh Trim
+Herrscherschnitt
 Female
-Female
+Weiblich
 Blade Forme
-Blade Forme
+Klingenform
 Average Size
-Average Size
+Größe M
 Large Size
-Large Size
+Größe L
 Super Size
-Super Size
+Größe XL
 Active Mode
-Active Mode
+Aktiv-Modus
 10% Forme
-10% Forme
+10%-Zygarde
 Complete Forme
-Complete Forme
+Optimum-Zygarde
 Mega Diancie
 Mega Diancie
 Hoopa Unbound
-Hoopa Unbound
+Entfesseltes Hoopa
 Pom-Pom Style
-Pom-Pom Style
+Cheerleading-Stil
 Pa'u Style
-Pa'u Style
+Hula-Stil
 Sensu Style
-Sensu Style
+Buyo-Stil
 Midnight Form
-Midnight Form
+Nachtform
 Dusk Form
-Dusk Form
+Zwielichtform
 School Form
-School Form
+Schwarmform
 Type: Fighting
-Type: Fighting
+Typ: Kampf
 Type: Flying
-Type: Flying
+Typ: Flug
 Type: Poison
-Type: Poison
+Typ: Gift
 Type: Ground
-Type: Ground
+Typ: Boden
 Type: Rock
-Type: Rock
+Typ: Gestein
 Type: Bug
-Type: Bug
+Typ: Käfer
 Type: Ghost
-Type: Ghost
+Typ: Geist
 Type: Steel
-Type: Steel
+Typ: Stahl
 Type: Unknown
 Type: Unknown
 Type: Fire
-Type: Fire
+Typ: Feuer
 Type: Water
-Type: Water
+Typ: Wasser
 Type: Grass
-Type: Grass
+Typ: Pflanze
 Type: Electric
-Type: Electric
+Typ: Elektro
 Type: Psychic
-Type: Psychic
+Typ: Psyscho
 Type: Ice
-Type: Ice
+Typ: Eis
 Type: Dragon
-Type: Dragon
+Typ: Drache
 Type: Dark
-Type: Dark
+Typ: Unlicht
 Type: Fairy
-Type: Fairy
+Typ: Fee
 Red Core
-Red Core
+Roter Kern
 Orange Core
-Orange Core
+Oranger Kern
 Yellow Core
-Yellow Core
+Gelber Kern
 Green Core
-Green Core
+Grüner Kern
 Blue Core
-Blue Core
+Hellblauer Kern
 Indigo Core
-Indigo Core
+Blauer Kern
 Violet Core
-Violet Core
+Violetter Kern
 Busted Form
-Busted Form
+Entlarvte Form
 Dusk Mane
-Dusk Mane
+Abendmähne
 Dawn Wings
-Dawn Wings
+Morgenschwingen
 Ultra Necrozma
-Ultra Necrozma
+Ultra-Necrozma
 Original Color
-Original Color
+Originalfarbe
 Gulping Form
-Gulping Form
+Schlingform
 Gorging Form
-Gorging Form
+Stopfform
 Low Key Form
-Low Key Form
+Tief-Form
 Antique Form
-Antique Form
+Originalform
 Ruby Cream
-Ruby Cream
+Ruby-Creme
 Matcha Cream
-Matcha Cream
+Matcha-Creme
 Mint Cream
-Mint Cream
+Minz-Creme
 Lemon Cream
-Lemon Cream
+Zitronen-Creme
 Salted Cream
-Salted Cream
+Salz-Creme
 Ruby Swirl
-Ruby Swirl
+Ruby-Mix
 Caramel Swirl
-Caramel Swirl
+Karamell-Mix
 Rainbow Swirl
-Rainbow Swirl
+Trio-Mix
 Noice Face
-Noice Face
+Wohlfühlkopf
 Hangry Mode
-Hangry Mode
+Kohldampfmuster
 Crowned Sword
-Crowned Sword
+König des Schwertes
 Crowned Shield
-Crowned Shield
+König des Schildes
 Rapid Strike Style
-Rapid Strike Style
+Fließenden Stil
 Ice Rider
-Ice Rider
+Schimmelreiter
 Shadow Rider
-Shadow Rider
+Rappenreiter

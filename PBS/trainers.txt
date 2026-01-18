@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
 [CAMPER,Liam]
 LoseText = A very good battle, indeed!
@@ -120,3 +120,15 @@ Pokemon = BLASTOISE,63
 [SISANDBRO,Mom]
 LoseText = ...
 Pokemon = ZYGARDE,33
+#-------------------------------
+[RIVAL1,Justin,1]
+LoseText = I choose the wrong Pokémon
+Pokemon = GASTLY,5
+#-------------------------------
+[RIVAL1,Justin,3]
+LoseText = I choose the wrong Pokémon
+Pokemon = ABRA,5
+#-------------------------------
+[RIVAL1,Justin,2]
+LoseText = I choose the wrong Pokémon
+Pokemon = MACHOP,5

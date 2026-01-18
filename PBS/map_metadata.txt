@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
 [001]   # Intro
 Name = Intro
@@ -229,6 +229,12 @@ ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,7
 MapSize = 1,111
+#-------------------------------
+[043]   # Pokémon Lab
+ShowArea = true
+MapPosition = 2,24,11
+TrainerBattleBGM = FRLG 11 Battle (VS Trainer)
+TrainerVictoryBGM = FRLG 12 Victory (VS Trainer)
 #-------------------------------
 [044]   # Route 6
 Name = Route 6

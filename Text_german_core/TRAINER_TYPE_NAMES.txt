@@ -3,61 +3,61 @@
 #-------------------------------
 [TRAINER_TYPE_NAMES]
 Pokémon Trainer
-Pokémon Trainer
+Pokémon-Trainer
 Rival
-Rival
+Rivale
 Aroma Lady
-Aroma Lady
+Aromalady
 Beauty
-Beauty
+Schönheit
 Biker
-Biker
+Rowdy
 Bird Keeper
-Bird Keeper
+Vogel-Profi
 Bug Catcher
-Bug Catcher
+Käfersammler
 Burglar
-Burglar
+Dieb
 Channeler
-Channeler
+Exorzistin
 Cue Ball
 Cue Ball
 Engineer
-Engineer
+Elektriker
 Fisherman
-Fisherman
+Angler
 Gambler
-Gambler
+Rollenspieler
 Gentleman
 Gentleman
 Hiker
-Hiker
+Wanderer
 Juggler
-Juggler
+Jongleur
 Lady
 Lady
 Painter
 Painter
 Poké Maniac
-Poké Maniac
+Pokémaniac
 Pokémon Breeder
-Pokémon Breeder
+Pokémon-Züchterin
 Professor
 Professor
 Rocker
-Rocker
+Elektro-Musiker
 Ruin Maniac
-Ruin Maniac
+Ruinenmaniac
 Sailor
-Sailor
+Matrose
 Scientist
-Scientist
+Forscherin
 Super Nerd
-Super Nerd
+Streber
 Tamer
-Tamer
+Dompteur
 Black Belt
-Black Belt
+Schwarzgurt
 Crush Girl
 Crush Girl
 Camper
@@ -67,34 +67,34 @@ Picnicker
 Cool Trainer
 Cool Trainer
 Youngster
-Youngster
+Knirps
 Lass
-Lass
+Göre
 Pokémon Ranger
-Pokémon Ranger
+Pokémon-Ranger
 Psychic
-Psychic
+Seherin
 Swimmer
-Swimmer
+Schwimmerin
 Tuber
-Tuber
+Planscher
 Cool Couple
 Cool Couple
 Crush Kin
-Crush Kin
+Mühlensippe
 Sis and Bro
 Sis and Bro
 Twins
-Twins
+Zwillinge
 Young Couple
-Young Couple
+Junges Glück
 Team Rocket
 Team Rocket
 Rocket Boss
 Rocket Boss
 Gym Leader
-Gym Leader
+Arenaleiterin
 Elite Four
-Elite Four
+Top Vier
 Champion
-Champion
+Champ

@@ -3,206 +3,206 @@
 #-------------------------------
 [ITEM_PORTION_NAMES]
 jar of Honey
-jar of Honey
+Glas mit Honig
 bag of Stardust
-bag of Stardust
+Beutel mit Sternenstaub
 Relic Copper coin
-Relic Copper coin
+Antikkupfer-Münze
 Relic Silver coin
-Relic Silver coin
+Antiksilber-Münze
 Relic Gold coin
-Relic Gold coin
+Antikgold-Münze
 bag of Growth Mulch
-bag of Growth Mulch
+Sack mit Wachsmulch
 bag of Damp Mulch
-bag of Damp Mulch
+Sack mit Feuchtmulch
 bag of Stable Mulch
-bag of Stable Mulch
+Sack mit Stabilmulch
 bag of Gooey Mulch
-bag of Gooey Mulch
+Sack mit Klebnmulch
 pile of Shoal Salt
-pile of Shoal Salt
+Haufen mit Küstensalz
 jar of Red Nectar
-jar of Red Nectar
+Flasche mit Rotem Nektar
 jar of Yellow Nectar
-jar of Yellow Nectar
+Flasche mit Gelbem Nektar
 jar of Pink Nectar
-jar of Pink Nectar
+Flasche mit Rosa Nektar
 jar of Purple Nectar
-jar of Purple Nectar
+Flasche mit Violettem Nektar
 bag of Bright Powder
-bag of Bright Powder
+Beutel mit Blendpuder
 bag of BrightPowder
-bag of BrightPowder
+Beutel mit Blendpuder
 pair of Safety Goggles
-pair of Safety Goggles
+Paar Schutzbrille
 set of Protective Pads
-set of Protective Pads
+Set Schutzpolster
 pair of Heavy-Duty Boots
-pair of Heavy-Duty Boots
+Paar Schwerstiefeln
 pair of Choice Specs
-pair of Choice Specs
+Paar Wahlglas
 lump of Light Clay
-lump of Light Clay
+Klumpen Lichtlehm
 blob of Black Sludge
-blob of Black Sludge
+Klecks Giftschleim
 serving of Leftovers
-serving of Leftovers
+Portion Überreste
 clump of Luminous Moss
-clump of Luminous Moss
+Büschel Leuchtmoos
 bottle of Throat Spray
-bottle of Throat Spray
+Flasche mit Halsspray
 voucher for Room Service
-voucher for Room Service
+Gutschein für Raumservice
 pair of Wise Glasses
-pair of Wise Glasses
+Paar Schlauglas
 jar of Lax Incense
-jar of Lax Incense
+Dose mit Laxrauch
 jar of Full Incense
-jar of Full Incense
+Dose mit Füllrauch
 jar of Luck Incense
-jar of Luck Incense
+Dose mit Glücksrauch
 jar of Pure Incense
-jar of Pure Incense
+Dose mit Scheuchrauch
 jar of Sea Incense
-jar of Sea Incense
+Dose mit Seerauch
 jar of Wave Incense
-jar of Wave Incense
+Dose mit Wellenrauch
 jar of Rose Incense
-jar of Rose Incense
+Dose mit Rosenrauch
 jar of Odd Incense
-jar of Odd Incense
+Dose mit Schrägrauch
 jar of Rock Incense
-jar of Rock Incense
+Dose mit Steinrauch
 piece of Charcoal
-piece of Charcoal
+Stück Holzkohle
 piece of Never-Melt Ice
-piece of Never-Melt Ice
+Stück Ewiges Eis
 piece of NeverMeltIce
-piece of NeverMeltIce
+Stück Ewiges Eis
 bag of Soft Sand
-bag of Soft Sand
+Beutel mit Pudersand
 pile of Silver Powder
-pile of Silver Powder
+Haufen Silberstaub
 pile of SilverPowder
-pile of SilverPowder
+Haufen Silberstaub
 pair of Black Glasses
-pair of Black Glasses
+Paar Schattenglas
 pair of BlackGlasses
-pair of BlackGlasses
+Paar Schattenglas
 bag of Metal Powder
-bag of Metal Powder
+Beutel mit Metallstaub
 bag of Quick Powder
-bag of Quick Powder
+Beutel mit Flottstaub
 scrap of Reaper Cloth
-scrap of Reaper Cloth
+Fetzen Düsterumhang
 dollop of Whipped Dream
-dollop of Whipped Dream
+Klecks Sahnehäubchen
 bag of Sacred Ash
-bag of Sacred Ash
+Beutel mit Zauberasche
 bag of Pewter Crunchies
-bag of Pewter Crunchies
+Tüte mit Mettawei-Cracker
 cup of Berry Juice
-cup of Berry Juice
+Tasse mit Beerensaft
 bottle of Fresh Water
-bottle of Fresh Water
+Flasche Tafelwasser
 bottle of Soda Pop
-bottle of Soda Pop
+Flasche Sprudel
 can of Lemonade
-can of Lemonade
+Dose Limonade
 bottle of Moomoo Milk
-bottle of Moomoo Milk
+Flasche Kuhmuh-Milch
 dose of Energy Powder
-dose of Energy Powder
+Dosis Energiestaub
 dose of EnergyPowder
-dose of EnergyPowder
+Dosis Energiestaub
 dose of Heal Powder
-dose of Heal Powder
+Dosis Heilpuder
 comb of Max Honey
-comb of Max Honey
+Wabe mit Dynahonig
 bottle of PP Up
-bottle of PP Up
+Flasche AP-Plus
 bottle of PP Max
-bottle of PP Max
+Flasche Top-AP-Plus
 bottle of HP Up
-bottle of HP Up
+Flasche KP-Plus
 bottle of Protein
-bottle of Protein
+Flasche Protein
 bottle of Iron
-bottle of Iron
+Flasche Eisen
 bottle of Calcium
-bottle of Calcium
+Flasche Kalzium
 bottle of Zinc
-bottle of Zinc
+Flasche Zink
 bottle of Carbos
-bottle of Carbos
+Flasche Carbon
 sprig of Lonely Mint
-sprig of Lonely Mint
+Zweig Solo-Minze
 sprig of Adamant Mint
-sprig of Adamant Mint
+Zweig Hart-Minze
 sprig of Naughty Mint
-sprig of Naughty Mint
+Zweig Pfiffig-Minze
 sprig of Brave Mint
-sprig of Brave Mint
+Zweig Mutig-Minze
 sprig of Bold Mint
-sprig of Bold Mint
+Zweig Kühn-Minze
 sprig of Impish Mint
-sprig of Impish Mint
+Zweig Frech-Minze
 sprig of Lax Mint
-sprig of Lax Mint
+Zweig Lasch-Minze
 sprig of Relaxed Mint
-sprig of Relaxed Mint
+Zweig Locker-Minze
 sprig of Modest Mint
-sprig of Modest Mint
+Zweig Mäßig-Minze
 sprig of Mild Mint
-sprig of Mild Mint
+Zweig Mild-Minze
 sprig of Rash Mint
-sprig of Rash Mint
+Zweig Hitzig-Minze
 sprig of Quiet Mint
-sprig of Quiet Mint
+Zweig Ruhig-Minze
 sprig of Calm Mint
-sprig of Calm Mint
+Zweig Still-Minze
 sprig of Gentle Mint
-sprig of Gentle Mint
+Zweig Sanft-Minze
 sprig of Careful Mint
-sprig of Careful Mint
+Zweig Sacht-Minze
 sprig of Sassy Mint
-sprig of Sassy Mint
+Zweig Forsch-Minze
 sprig of Timid Mint
-sprig of Timid Mint
+Zweig Scheu-Minze
 sprig of Hasty Mint
-sprig of Hasty Mint
+Zweig Hastig-Minze
 sprig of Jolly Mint
-sprig of Jolly Mint
+Zweig Froh-Minze
 sprig of Naive Mint
-sprig of Naive Mint
+Zweig Naiv-Minze
 sprig of Serious Mint
-sprig of Serious Mint
+Zweig Ernst-Minze
 piece of Grass Mail
-piece of Grass Mail
+Stück Grasbrief
 piece of Flame Mail
-piece of Flame Mail
+Stück Flammenbrief
 piece of Bubble Mail
-piece of Bubble Mail
+Stück Blubberblasenbrief
 piece of Bloom Mail
-piece of Bloom Mail
+Stück Blumenbrief
 piece of Tunnel Mail
-piece of Tunnel Mail
+Stück Tunnelbrief
 piece of Steel Mail
-piece of Steel Mail
+Stück Stahlbrief
 piece of Heart Mail
-piece of Heart Mail
+Stück Herzbrief
 piece of Snow Mail
-piece of Snow Mail
+Stück Schneebrief
 piece of Space Mail
-piece of Space Mail
+Stück Weltraumbrief
 piece of Air Mail
-piece of Air Mail
+Stück Flugbrief
 piece of Mosaic Mail
-piece of Mosaic Mail
+Stück Mosaikbrief
 piece of Brick Mail
-piece of Brick Mail
+Stück Ziegelbrief
 cluster of Max Mushrooms
-cluster of Max Mushrooms
+Büschel Dyna-Pilz
 set of Reins of Unity
-set of Reins of Unity
+Set Zügel der Einheit

@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
 [0]
 Name = Essen
@@ -39,6 +39,31 @@ Point = 13,16,Here
 Name = Obryn
 Filename = mapRegion2.png
 Point = 24,11,Oakleaf Town,Oak's Lab,22,8,8
-Point = 17,13,???,
-Point = 17,4,???,
-Point = 24,7,???,
+Point = 17,13,???
+Point = 17,4,???
+Point = 24,7,???
+Point = 18,13,Route ???
+Point = 24,10,Route 1
+Point = 24,9,Route 1
+Point = 24,8,Route 1
+Point = 23,11,Route ???
+Point = 22,11,Route ???
+Point = 21,11,Route ???
+Point = 20,11,Route ???
+Point = 19,11,Route ???
+Point = 18,11,Route ???
+Point = 17,11,Route ???
+Point = 17,10,Route ???
+Point = 17,9,Route ???
+Point = 17,8,Route ???
+Point = 17,7,Route ???
+Point = 17,6,Route ???
+Point = 17,5,Route ???
+Point = 17,12,Route ???
+Point = 19,13,Route ???
+Point = 20,13,Route ???
+Point = 21,13,Route ???
+Point = 22,13,Route 3
+Point = 23,13,Route 3
+Point = 24,13,Route 3
+Point = 24,12,Route 3

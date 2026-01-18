@@ -3,1462 +3,1462 @@
 #-------------------------------
 [ITEM_NAME_PLURALS]
 Repels
-Repels
+Schutz
 Super Repels
-Super Repels
+Superschutz
 Max Repels
-Max Repels
+Top-Schutz
 Black Flutes
-Black Flutes
+Schwarze Flöten
 White Flutes
-White Flutes
+Weiße Flöten
 Honey
-Honey
+Honig
 Red Shards
-Red Shards
+Rote Stücke
 Yellow Shards
-Yellow Shards
+Gelbe Stücke
 Blue Shards
-Blue Shards
+Blaue Stücke
 Green Shards
-Green Shards
+Grüne Stücke
 Fire Stones
-Fire Stones
+Feuersteine
 Thunder Stones
-Thunder Stones
+Donnersteine
 Thunderstones
-Thunderstones
+Donnersteine
 Water Stones
-Water Stones
+Wassersteine
 Leaf Stones
-Leaf Stones
+Blattsteine
 Moon Stones
-Moon Stones
+Mondsteine
 Sun Stones
-Sun Stones
+Sonnensteine
 Dusk Stones
-Dusk Stones
+Finsterstein
 Dawn Stones
-Dawn Stones
+Funkelsteine
 Shiny Stones
-Shiny Stones
+Leuchtstein
 Ice Stones
-Ice Stones
+Eissteine
 Sweet Apples
-Sweet Apples
+Süße Äpfel
 Tart Apples
-Tart Apples
+Saure Äpfel
 Cracked Pots
-Cracked Pots
+Rissige Töpfe
 Chipped Pots
-Chipped Pots
+Angeschlagene Töpfe
 Galarica Cuffs
-Galarica Cuffs
+Galarica-Manschetten
 Galarica Wreaths
-Galarica Wreaths
+Galarica-Kränze
 Red Apricorns
-Red Apricorns
+Rote Aprikokos
 Yellow Apricorns
-Yellow Apricorns
+Gelbe Aprikokos
 Ylw Apricorns
-Ylw Apricorns
+Glb Aprikokos
 Blue Apricorns
-Blue Apricorns
+Blaue Aprikokos
 Blu Apricorns
-Blu Apricorns
+Blu Aprikokos
 Green Apricorns
-Green Apricorns
+Grüne Aprikokos
 Grn Apricorns
-Grn Apricorns
+Grn Aprikokos
 Pink Apricorns
-Pink Apricorns
+Rosa Aprikokos
 Pnk Apricorns
-Pnk Apricorns
+Rsa Aprikokos
 White Apricorns
-White Apricorns
+Weiße Aprikokos
 Wht Apricorns
-Wht Apricorns
+Wei Aprikokos
 Black Apricorns
-Black Apricorns
+Schwarze Aprikokos
 Blk Apricorns
-Blk Apricorns
+Schw Aprikokos
 Helix Fossils
-Helix Fossils
+Helixfossilien
 Dome Fossils
-Dome Fossils
+Domfossilien
 Old Ambers
-Old Ambers
+Altbernsteine
 Root Fossils
-Root Fossils
+Wurzelfossilien
 Claw Fossils
-Claw Fossils
+Klauenfossilien
 Skull Fossils
-Skull Fossils
+Kopffossilien
 Armor Fossils
-Armor Fossils
+Panzerfossilien
 Cover Fossils
-Cover Fossils
+Schildfossilien
 Plume Fossils
-Plume Fossils
+Federfossilien
 Jaw Fossils
-Jaw Fossils
+Kieferfossilien
 Sail Fossils
-Sail Fossils
+Flossenfossilien
 Fossilized Birds
-Fossilized Birds
+Fossilisierte Vögel
 Fossilized Fish
-Fossilized Fish
+Fossilisierte Fische
 Fossilized Drakes
-Fossilized Drakes
+Fossilisierte Drachen
 Fossilized Dinos
-Fossilized Dinos
+Fossilisierte Dinos
 Pretty Feathers
-Pretty Feathers
+Hübsche Federn
 Pretty Wings
-Pretty Wings
+Hübsche Flügel
 Tiny Mushrooms
-Tiny Mushrooms
+Minipilze
 TinyMushrooms
-TinyMushrooms
+Minipilze
 Big Mushrooms
-Big Mushrooms
+Riesenpilze
 Balm Mushrooms
-Balm Mushrooms
+Duftpilze
 BalmMushrooms
-BalmMushrooms
+Duftpilze
 Pearls
-Pearls
+Perlen
 Big Pearls
-Big Pearls
+Riesenperlen
 Pearl Strings
-Pearl Strings
+Perlenketten
 Stardusts
-Stardusts
+Sternenstaub
 Star Pieces
-Star Pieces
+Sternenstücke
 Comet Shards
-Comet Shards
+Kometenstücke
 Nuggets
 Nuggets
 Big Nuggets
-Big Nuggets
+Riesennuggets
 Heart Scales
-Heart Scales
+Herzschuppen
 Slowpoke Tails
-Slowpoke Tails
+Flegmon-Schweife
 SlowpokeTails
-SlowpokeTails
+Flegmon-Schweife
 Rare Bones
-Rare Bones
+Seltene Knochen
 Relic Coppers
-Relic Coppers
+Antike Kupfer
 Relic Silvers
-Relic Silvers
+Antike Silber
 Relic Golds
-Relic Golds
+Antike Gold
 Relic Vases
-Relic Vases
+Antike Vasen
 Relic Bands
-Relic Bands
+Antike Bänder
 Relic Statues
-Relic Statues
+Antike Statuen
 Relic Crowns
-Relic Crowns
+Antike Kronen
 Growth Mulch
-Growth Mulch
+Wachstumsmulch
 Damp Mulch
-Damp Mulch
+Feuchtmulch
 Stable Mulch
-Stable Mulch
+Stabilmulch
 Gooey Mulch
-Gooey Mulch
+Klebemulch
 Shoal Salts
-Shoal Salts
+Küstensalz
 Shoal Shells
-Shoal Shells
+Küstenmuscheln
 Odd Keystones
-Odd Keystones
+Spiritkerne
 Red Nectars
-Red Nectars
+Roter Nektar
 Yellow Nectars
-Yellow Nectars
+Gelber Nektar
 Pink Nectars
-Pink Nectars
+Rosa Nektar
 Purple Nectars
-Purple Nectars
+Violetter Nektar
 Air Balloons
-Air Balloons
+Luftballons
 Bright Powders
-Bright Powders
+Blendpuder
 BrightPowders
-BrightPowders
+Blendpuder
 Eviolites
-Eviolites
+Evolith
 Float Stones
-Float Stones
+Schwebstein
 Destiny Knots
-Destiny Knots
+Fatumknoten
 Rocky Helmets
-Rocky Helmets
+Beulenhelme
 Assault Vests
-Assault Vests
+Offensivwesten
 Safety Goggles
-Safety Goggles
+Schutzbrille
 Protective Pads
-Protective Pads
+Schutzpolster
 Heavy-Duty Boots
-Heavy-Duty Boots
+Robuste Stiefel
 Utility Umbrellas
-Utility Umbrellas
+Allzweckschirme
 Eject Buttons
-Eject Buttons
+Fluchtknöpfe
 Eject Packs
-Eject Packs
+Notfallkoffer
 Red Cards
-Red Cards
+Rote Karten
 Shed Shells
-Shed Shells
+Wechselhülle
 Smoke Balls
-Smoke Balls
+Rauchbälle
 Lucky Eggs
-Lucky Eggs
+Glücks-Eier
 Exp. Shares
-Exp. Shares
+EP-Teiler
 Amulet Coins
-Amulet Coins
+Münzamulett
 Soothe Bells
-Soothe Bells
+Sanftglocken
 Cleanse Tags
-Cleanse Tags
+Schutzband
 Choice Bands
-Choice Bands
+Wahlband
 Choice Specs
-Choice Specs
+Wahlglas
 Choice Scarves
-Choice Scarves
+Wahlschal
 Heat Rocks
-Heat Rocks
+Heißbrocken
 Damp Rocks
-Damp Rocks
+Nassbrocken
 Smooth Rocks
-Smooth Rocks
+Glattbrocken
 Icy Rocks
-Icy Rocks
+Eisbrocken
 Terrain Extenders
-Terrain Extenders
+Feldbeschleuniger
 Light Clays
-Light Clays
+Lichtlehm
 Grip Claws
-Grip Claws
+Griffklaue
 Binding Bands
-Binding Bands
+Klammerband
 Big Roots
-Big Roots
+Großwurzel
 Black Sludges
-Black Sludges
+Giftschleim
 Leftovers
-Leftovers
+Überreste
 Shell Bells
-Shell Bells
+Seegesang
 Mental Herbs
-Mental Herbs
+Mentalkräuter
 White Herbs
-White Herbs
+Schlohkräuter
 Power Herbs
-Power Herbs
+Energiekräuter
 Absorb Bulbs
-Absorb Bulbs
+Aufladezellen
 Cell Batteries
-Cell Batteries
+Ladeakku
 Luminous Moss
-Luminous Moss
+Leuchtmoos
 Snowballs
-Snowballs
+Schneebälle
 Weakness Policies
-Weakness Policies
+Schwächenschutz
 Blunder Policies
-Blunder Policies
+Patzerversicherung
 Throat Sprays
-Throat Sprays
+Halsspray
 Adrenaline Orbs
-Adrenaline Orbs
+Adrenalin-Kugeln
 Room Services
-Room Services
+Raumservice
 Electric Seeds
-Electric Seeds
+Elektrosamen
 Grassy Seeds
-Grassy Seeds
+Grassamen
 Misty Seeds
-Misty Seeds
+Nebelsamen
 Psychic Seeds
-Psychic Seeds
+Psychosamen
 Life Orbs
-Life Orbs
+Leben-Orb
 Expert Belts
-Expert Belts
+Expertengurt
 Metronomes
-Metronomes
+Metronome
 Muscle Bands
-Muscle Bands
+Muskelband
 Wise Glasses
-Wise Glasses
+Schlauglas
 Razor Claws
-Razor Claws
+Scharfklaue
 Scope Lenses
-Scope Lenses
+Scope-Linse
 Wide Lenses
-Wide Lenses
+Weitwinkel-Linse
 Zoom Lenses
-Zoom Lenses
+Zoomlinse
 King's Rocks
-King's Rocks
+King-Stein
 Razor Fangs
-Razor Fangs
+Scharfzahn
 Lagging Tails
-Lagging Tails
+Schwerschweif
 Quick Claws
-Quick Claws
+Flinkklaue
 Focus Bands
-Focus Bands
+Fokus-Band
 Focus Sashes
-Focus Sashes
+Fokusgurt
 Flame Orbs
-Flame Orbs
+Flammkugel
 Toxic Orbs
-Toxic Orbs
+Toxik-Orb
 Sticky Barbs
-Sticky Barbs
+Klettdorn
 Iron Balls
-Iron Balls
+Eisenkugel
 Ring Targets
-Ring Targets
+Fadenkreuz
 Macho Braces
-Macho Braces
+Machoband
 Power Weights
-Power Weights
+Machtgewicht
 Power Bracers
-Power Bracers
+Machtreif
 Power Belts
-Power Belts
+Machtgurt
 Power Lenses
-Power Lenses
+Machtlinse
 Power Bands
-Power Bands
+Machtband
 Power Anklets
-Power Anklets
+Machtkette
 Lax Incenses
-Lax Incenses
+Laxräucherwerk
 Full Incenses
-Full Incenses
+Füllräucherwerk
 Luck Incenses
-Luck Incenses
+Glücksräucherwerk
 Pure Incenses
-Pure Incenses
+Scheuchräucherwerk
 Sea Incenses
-Sea Incenses
+Seeräucherwerk
 Wave Incenses
-Wave Incenses
+Wellenräucherwerk
 Rose Incenses
-Rose Incenses
+Rosenräucherwerk
 Odd Incenses
-Odd Incenses
+Schrägrauch
 Rock Incenses
-Rock Incenses
+Steinrauch
 Charcoals
-Charcoals
+Holzkohle
 Mystic Waters
-Mystic Waters
+Zauberwasser
 Magnets
-Magnets
+Magnete
 Miracle Seeds
-Miracle Seeds
+Wundersaat
 Never-Melt Ices
-Never-Melt Ices
+Ewiges Eis
 NeverMeltIces
-NeverMeltIces
+Ewiges Eis
 Black Belts
-Black Belts
+Schwarzgurte
 Poison Barbs
-Poison Barbs
+Giftstich
 Soft Sand
-Soft Sand
+Pudersand
 Sharp Beaks
-Sharp Beaks
+Hackattack
 Twisted Spoons
-Twisted Spoons
+Krummlöffel
 TwistedSpoons
-TwistedSpoons
+Krummlöffel
 Silver Powders
-Silver Powders
+Silberstaub
 SilverPowders
-SilverPowders
+Silberstaub
 Hard Stones
-Hard Stones
+Granitstein
 Spell Tags
-Spell Tags
+Bannsticker
 Dragon Fangs
-Dragon Fangs
+Drachenzahn
 Black Glasses
-Black Glasses
+Finsterglas
 BlackGlasses
-BlackGlasses
+Finsterglas
 Metal Coats
-Metal Coats
+Metallmantel
 Silk Scarves
-Silk Scarves
+Seidenschal
 Flame Plates
-Flame Plates
+Flammentafel
 Splash Plates
-Splash Plates
+Wassertafel
 Zap Plates
-Zap Plates
+Blitztafel
 Meadow Plates
-Meadow Plates
+Wiesentafel
 Icicle Plates
-Icicle Plates
+Eiszapfentafel
 Fist Plates
-Fist Plates
+Fausttafel
 Toxic Plates
-Toxic Plates
+Gifttafel
 Earth Plates
-Earth Plates
+Erdtafel
 Sky Plates
-Sky Plates
+Wolkentafel
 Mind Plates
-Mind Plates
+Denktafel
 Insect Plates
-Insect Plates
+Käfertafel
 Stone Plates
-Stone Plates
+Steintafel
 Spooky Plates
-Spooky Plates
+Spuktafel
 Draco Plates
-Draco Plates
+Drachentafel
 Dread Plates
-Dread Plates
+Furchttafel
 Iron Plates
-Iron Plates
+Eisentafel
 Pixie Plates
-Pixie Plates
+Feentafel
 Fire Gems
-Fire Gems
+Feuerjuwele
 Water Gems
-Water Gems
+Wasserjuwele
 Electric Gems
-Electric Gems
+Elektrojuwele
 Grass Gems
-Grass Gems
+Pflanzenjuwele
 Ice Gems
-Ice Gems
+Eisjuwele
 Fighting Gems
-Fighting Gems
+Kampfjuwele
 Poison Gems
-Poison Gems
+Giftjuwele
 Ground Gems
-Ground Gems
+Bodenjuwele
 Flying Gems
-Flying Gems
+Flugjuwele
 Psychic Gems
-Psychic Gems
+Psychojuwele
 Bug Gems
-Bug Gems
+Käferjuwele
 Rock Gems
-Rock Gems
+Gesteinsjuwele
 Ghost Gems
-Ghost Gems
+Geistjuwele
 Dragon Gems
-Dragon Gems
+Drachenjuwele
 Dark Gems
-Dark Gems
+Unlichtjuwele
 Steel Gems
-Steel Gems
+Stahljuwele
 Fairy Gems
-Fairy Gems
+Feenjuwele
 Normal Gems
-Normal Gems
+Normaljuwele
 Light Balls
-Light Balls
+Kugelblitz
 Lucky Punches
-Lucky Punches
+Lucky Punch
 Metal Powders
-Metal Powders
+Metallstaub
 Quick Powders
-Quick Powders
+Flottstaub
 Thick Clubs
-Thick Clubs
+Kampfknochen
 Leeks
-Leeks
+Porree
 Sticks
-Sticks
+Stangen
 Soul Dews
-Soul Dews
+Seelentau
 Deep Sea Teeth
-Deep Sea Teeth
+Abysszahn
 DeepSeaTeeth
-DeepSeaTeeth
+Abysszahn
 Deep Sea Scales
-Deep Sea Scales
+Abyssplatte
 DeepSeaScales
-DeepSeaScales
+Abyssplatte
 Adamant Orbs
-Adamant Orbs
+Adamant-Orb
 Lustrous Orbs
-Lustrous Orbs
+Weiß-Orb
 Griseous Orbs
-Griseous Orbs
+Platinum-Orb
 Rusted Swords
-Rusted Swords
+Rostiges Schwert
 Rusted Shields
-Rusted Shields
+Rostiger Schild
 Douse Drives
-Douse Drives
+Aquamodul
 Shock Drives
-Shock Drives
+Blitzmodul
 Burn Drives
-Burn Drives
+Flammenmodul
 Chill Drives
-Chill Drives
+Gefriermodul
 Fire Memories
-Fire Memories
+Feuer-Disc
 Water Memories
-Water Memories
+Wasser-Disc
 Electric Memories
-Electric Memories
+Elektro-Disc
 Grass Memories
-Grass Memories
+Pflanzen-Disc
 Ice Memories
-Ice Memories
+Eis-Disc
 Fighting Memories
-Fighting Memories
+Kampf-Disc
 Poison Memories
-Poison Memories
+Gift-Disc
 Ground Memories
-Ground Memories
+Boden-Disc
 Flying Memories
-Flying Memories
+Flug-Disc
 Psychic Memories
-Psychic Memories
+Psycho-Disc
 Bug Memories
-Bug Memories
+Käfer-Disc
 Rock Memories
-Rock Memories
+Gesteins-Disc
 Ghost Memories
-Ghost Memories
+Geist-Disc
 Dragon Memories
-Dragon Memories
+Drachen-Disc
 Dark Memories
-Dark Memories
+Unlicht-Disc
 Steel Memories
-Steel Memories
+Stahl-Disc
 Fairy Memories
-Fairy Memories
+Feen-Disc
 Everstones
-Everstones
+Ewigsteine
 Dragon Scales
-Dragon Scales
+Drachenhaut
 Upgrades
 Upgrades
 Up-Grades
 Up-Grades
 Dubious Discs
-Dubious Discs
+Dubiosdisc
 Protectors
-Protectors
+Schützer
 Electirizers
-Electirizers
+Elektrisatoren
 Magmarizers
-Magmarizers
+Magmaisierer
 Reaper Cloths
-Reaper Cloths
+Düsterumhänge
 Prism Scales
-Prism Scales
+Schönschuppe
 Oval Stones
-Oval Stones
+Ovale Steine
 Whipped Dreams
-Whipped Dreams
+Schlagsahne
 Sachets
-Sachets
+Duftbeutel
 Strawberry Sweets
-Strawberry Sweets
+Erdbeer-Bonbons
 Love Sweets
-Love Sweets
+Herz-Bonbons
 Berry Sweets
-Berry Sweets
+Beeren-Bonbons
 Clover Sweets
-Clover Sweets
+Kleeblatt-Bonbons
 Flower Sweets
-Flower Sweets
+Blumen-Bonbons
 Star Sweets
-Star Sweets
+Stern-Bonbons
 Ribbon Sweets
-Ribbon Sweets
+Schleifen-Bonbons
 Venusaurites
-Venusaurites
+Bisaflornit
 Charizardite Xs
-Charizardite Xs
+Gluraknit X
 Charizardite Ys
-Charizardite Ys
+Gluraknit Y
 Blastoisinites
-Blastoisinites
+Turtoknit
 Beedrillites
-Beedrillites
+Bibornit
 Pidgeotites
-Pidgeotites
+Taubossnit
 Alakazites
-Alakazites
+Simsalanit
 Slowbronites
-Slowbronites
+Lahmusnit
 Gengarites
-Gengarites
+Gengarnit
 Kangaskhanites
-Kangaskhanites
+Kangamanit
 Pinsirites
-Pinsirites
+Pinsirmnit
 Gyaradosites
-Gyaradosites
+Garadosnit
 Aerodactylites
-Aerodactylites
+Aerodactylnit
 Mewtwonite Xs
-Mewtwonite Xs
+Mewtunit X
 Mewtwonite Ys
-Mewtwonite Ys
+Mewtunit Y
 Ampharosites
-Ampharosites
+Ampharosnit
 Steelixites
-Steelixites
+Stahlosnit
 Scizorites
-Scizorites
+Scheroxnit
 Heracronites
-Heracronites
+Skarabornnit
 Houndoominites
-Houndoominites
+Hundemonnit
 Tyranitarites
-Tyranitarites
+Despotarnit
 Sceptilites
-Sceptilites
+Gewaldronit
 Blazikenites
-Blazikenites
+Lohgocknit
 Swampertites
-Swampertites
+Sumpexnit
 Gardevoirites
-Gardevoirites
+Guardevoirnit
 Sablenites
-Sablenites
+Zobirisnit
 Mawilites
-Mawilites
+Flunkifernit
 Aggronites
-Aggronites
+Stollossnit
 Medichamites
-Medichamites
+Meditalisnit
 Manectites
-Manectites
+Voltensonit
 Sharpedonites
-Sharpedonites
+Tohaidonit
 Cameruptites
-Cameruptites
+Cameruptnit
 Altarianites
-Altarianites
+Altarianit
 Banettites
-Banettites
+Banettenit
 Absolites
-Absolites
+Absolnit
 Glalitites
-Glalitites
+Firntornit
 Salamencites
-Salamencites
+Brutalandanit
 Metagrossites
-Metagrossites
+Metagrossnit
 Latiasites
-Latiasites
+Latiasnit
 Latiosites
-Latiosites
+Latiosnit
 Lopunnites
-Lopunnites
+Schlapornit
 Garchompites
-Garchompites
+Knakracknit
 Lucarionites
-Lucarionites
+Lucarionit
 Abomasites
-Abomasites
+Rexblisarnit
 Galladites
-Galladites
+Galagladinit
 Audinites
-Audinites
+Ohrdochnit
 Diancites
-Diancites
+Diancienit
 Red Orbs
-Red Orbs
+Rote Kugeln
 Blue Orbs
-Blue Orbs
+Blaue Kugeln
 Potions
-Potions
+Tränke
 Super Potions
-Super Potions
+Supertränke
 Hyper Potions
-Hyper Potions
+Hypertränke
 Max Potions
-Max Potions
+Top-Tränke
 Full Restores
-Full Restores
+Top-Genesungen
 Sacred Ashes
-Sacred Ashes
+Zauberasche
 Awakenings
-Awakenings
+Aufwecker
 Antidotes
-Antidotes
+Gegengift
 Burn Heals
-Burn Heals
+Feuerheiler
 Paralyze Heals
-Paralyze Heals
+Para-Heiler
 Parlyz Heals
-Parlyz Heals
+Para-Heiler
 Ice Heals
-Ice Heals
+Eisheiler
 Full Heals
-Full Heals
+Hyperheiler
 Pewter Crunchies
-Pewter Crunchies
+Marmoria-Kekse
 Rage Candy Bars
-Rage Candy Bars
+Wutkekse
 RageCandyBars
-RageCandyBars
+Wutkekse
 Lava Cookies
-Lava Cookies
+Lavakekse
 Old Gateaux
-Old Gateaux
+Alte Gateau
 Casteliacones
-Casteliacones
+Stratos-Eishörnchen
 Lumiose Galettes
-Lumiose Galettes
+Illumina-Galettes
 Shalour Sables
-Shalour Sables
+Yantara-Sablés
 Big Malasadas
-Big Malasadas
+Malasadas
 Revives
-Revives
+Beleber
 Max Revives
-Max Revives
+Top-Beleber
 Berry Juices
-Berry Juices
+Beerensäfte
 Sweet Hearts
-Sweet Hearts
+Liebesherzen
 Fresh Waters
-Fresh Waters
+Tafelwasser
 Soda Pops
-Soda Pops
+Sprudel
 Lemonades
-Lemonades
+Limonaden
 Moomoo Milks
-Moomoo Milks
+Kuhmuh-Milch
 Energy Powders
-Energy Powders
+Energiestaub
 EnergyPowders
-EnergyPowders
+Energiestaub
 Energy Roots
-Energy Roots
+Kraftwurzeln
 Heal Powders
-Heal Powders
+Heilpulver
 Revival Herbs
-Revival Herbs
+Vitalkräuter
 Max Honeys
-Max Honeys
+Top-Honig
 Ethers
-Ethers
+Äther
 Max Ethers
-Max Ethers
+Top-Äther
 Elixirs
-Elixirs
+Elixiere
 Max Elixirs
-Max Elixirs
+Top-Elixiere
 PP Ups
-PP Ups
+AP-Plus
 PP Maxes
-PP Maxes
+AP-Top
 HP Ups
-HP Ups
+KP-Plus
 Proteins
-Proteins
+Protein
 Irons
-Irons
+Eisen
 Calciums
-Calciums
+Kalzium
 Zincs
-Zincs
+Zink
 Carbos
-Carbos
+Carbon
 Health Feathers
-Health Feathers
+KP-Feder
 Health Wings
-Health Wings
+KP-Schwinge
 Muscle Feathers
-Muscle Feathers
+Angriffs-Feder
 Muscle Wings
-Muscle Wings
+Angriffs-Schwinge
 Resist Feathers
-Resist Feathers
+Verteidigungs-Feder
 Resist Wings
-Resist Wings
+Verteidigungs-Schwinge
 Genius Feathers
-Genius Feathers
+Spezial-Angriffs-Feder
 Genius Wings
-Genius Wings
+Spezial-Angriffs-Schwinge
 Clever Feathers
-Clever Feathers
+Spezial-Verteidigungs-Feder
 Clever Wings
-Clever Wings
+Spezial-Verteidigungs-Schwinge
 Swift Feathers
-Swift Feathers
+Initiative-Feder
 Swift Wings
-Swift Wings
+Initiative-Schwinge
 Lonely Mints
-Lonely Mints
+Solo-Minze
 Adamant Mints
-Adamant Mints
+Hart-Minze
 Naughty Mints
-Naughty Mints
+Pfiffig-Minze
 Brave Mints
-Brave Mints
+Mutig-Minze
 Bold Mints
-Bold Mints
+Kühn-Minze
 Impish Mints
-Impish Mints
+Locker-Minze
 Lax Mints
-Lax Mints
+Lax-Minze
 Relaxed Mints
-Relaxed Mints
+Gelassen-Minze
 Modest Mints
-Modest Mints
+Mäßig-Minze
 Mild Mints
-Mild Mints
+Mild-Minze
 Rash Mints
-Rash Mints
+Hitzig-Minze
 Quiet Mints
-Quiet Mints
+Ruhig-Minze
 Calm Mints
-Calm Mints
+Still-Minze
 Gentle Mints
-Gentle Mints
+Sanft-Minze
 Careful Mints
-Careful Mints
+Sacht-Minze
 Sassy Mints
-Sassy Mints
+Forsch-Minze
 Timid Mints
-Timid Mints
+Scheu-Minze
 Hasty Mints
-Hasty Mints
+Hastig-Minze
 Jolly Mints
-Jolly Mints
+Froh-Minze
 Naive Mints
-Naive Mints
+Naiv-Minze
 Serious Mints
-Serious Mints
+Ernst-Minze
 Ability Capsule
-Ability Capsule
+Fähigkeiten-Kapsel
 Ability Patches
-Ability Patches
+Fähigkeiten-Pflaster
 Exp. Candy XSs
-Exp. Candy XSs
+EP-Bonbons XS
 Exp. Candy Ss
-Exp. Candy Ss
+EP-Bonbons S
 Exp. Candy Ms
-Exp. Candy Ms
+EP-Bonbons M
 Exp. Candy Ls
-Exp. Candy Ls
+EP-Bonbons L
 Exp. Candy XLs
-Exp. Candy XLs
+EP-Bonbons XL
 Rare Candies
-Rare Candies
+Sonderbonbons
 Master Balls
-Master Balls
+Meisterbälle
 Ultra Balls
-Ultra Balls
+Hyperbälle
 Great Balls
-Great Balls
+Superbälle
 Poké Balls
-Poké Balls
+Pokébälle
 Safari Balls
-Safari Balls
+Safaribälle
 Sport Balls
-Sport Balls
+Turnierball
 Net Balls
-Net Balls
+Netzbälle
 Dive Balls
-Dive Balls
+Tauchbälle
 Nest Balls
-Nest Balls
+Nestbälle
 Repeat Balls
-Repeat Balls
+Wiederball
 Timer Balls
-Timer Balls
+Timerball
 Luxury Balls
-Luxury Balls
+Luxusbälle
 Premier Balls
-Premier Balls
+Premierbälle
 Dusk Balls
-Dusk Balls
+Finsterball
 Heal Balls
-Heal Balls
+Heilbälle
 Quick Balls
-Quick Balls
+Flottbälle
 Cherish Balls
-Cherish Balls
+Jubelball
 Fast Balls
-Fast Balls
+Turboball
 Level Balls
-Level Balls
+Levelball
 Lure Balls
-Lure Balls
+Köderball
 Heavy Balls
-Heavy Balls
+Schwerball
 Love Balls
-Love Balls
+Freundesball
 Friend Balls
-Friend Balls
+Freundesball
 Moon Balls
-Moon Balls
+Mondball
 Dream Balls
-Dream Balls
+Traumball
 Beast Balls
-Beast Balls
+Ultraball
 TM01s
-TM01s
+TM01
 TM02s
-TM02s
+TM02
 TM03s
-TM03s
+TM03
 TM04s
-TM04s
+TM04
 TM05s
-TM05s
+TM05
 TM06s
-TM06s
+TM06
 TM07s
-TM07s
+TM07
 TM08s
-TM08s
+TM08
 TM09s
-TM09s
+TM09
 TM10s
-TM10s
+TM10
 TM11s
-TM11s
+TM11
 TM12s
-TM12s
+TM12
 TM13s
-TM13s
+TM13
 TM14s
-TM14s
+TM14
 TM15s
-TM15s
+TM15
 TM16s
-TM16s
+TM16
 TM17s
-TM17s
+TM17
 TM18s
-TM18s
+TM18
 TM19s
-TM19s
+TM19
 TM20s
-TM20s
+TM20
 TM21s
-TM21s
+TM21
 TM22s
-TM22s
+TM22
 TM23s
-TM23s
+TM23
 TM24s
-TM24s
+TM24
 TM25s
-TM25s
+TM25
 TM26s
-TM26s
+TM26
 TM27s
-TM27s
+TM27
 TM28s
-TM28s
+TM28
 TM29s
-TM29s
+TM29
 TM30s
-TM30s
+TM30
 TM31s
-TM31s
+TM31
 TM32s
-TM32s
+TM32
 TM33s
-TM33s
+TM33
 TM34s
-TM34s
+TM34
 TM35s
-TM35s
+TM35
 TM36s
-TM36s
+TM36
 TM37s
-TM37s
+TM37
 TM38s
-TM38s
+TM38
 TM39s
-TM39s
+TM39
 TM40s
-TM40s
+TM40
 TM41s
-TM41s
+TM41
 TM42s
-TM42s
+TM42
 TM43s
-TM43s
+TM43
 TM44s
-TM44s
+TM44
 TM45s
-TM45s
+TM45
 TM46s
-TM46s
+TM46
 TM47s
-TM47s
+TM47
 TM48s
-TM48s
+TM48
 TM49s
-TM49s
+TM49
 TM50s
-TM50s
+TM50
 TM51s
-TM51s
+TM51
 TM52s
-TM52s
+TM52
 TM53s
-TM53s
+TM53
 TM54s
-TM54s
+TM54
 TM55s
-TM55s
+TM55
 TM56s
-TM56s
+TM56
 TM57s
-TM57s
+TM57
 TM58s
-TM58s
+TM58
 TM59s
-TM59s
+TM59
 TM60s
-TM60s
+TM60
 TM61s
-TM61s
+TM61
 TM62s
-TM62s
+TM62
 TM63s
-TM63s
+TM63
 TM64s
-TM64s
+TM64
 TM65s
-TM65s
+TM65
 TM66s
-TM66s
+TM66
 TM67s
-TM67s
+TM67
 TM68s
-TM68s
+TM68
 TM69s
-TM69s
+TM69
 TM70s
-TM70s
+TM70
 TM71s
-TM71s
+TM71
 TM72s
-TM72s
+TM72
 TM73s
-TM73s
+TM73
 TM74s
-TM74s
+TM74
 TM75s
-TM75s
+TM75
 TM76s
-TM76s
+TM76
 TM77s
-TM77s
+TM77
 TM78s
-TM78s
+TM78
 TM79s
-TM79s
+TM79
 TM80s
-TM80s
+TM80
 TM81s
-TM81s
+TM81
 TM82s
-TM82s
+TM82
 TM83s
-TM83s
+TM83
 TM84s
-TM84s
+TM84
 TM85s
-TM85s
+TM85
 TM86s
-TM86s
+TM86
 TM87s
-TM87s
+TM87
 TM88s
-TM88s
+TM88
 TM89s
-TM89s
+TM89
 TM90s
-TM90s
+TM90
 TM91s
-TM91s
+TM91
 TM92s
-TM92s
+TM92
 TM93s
-TM93s
+TM93
 TM94s
-TM94s
+TM94
 TM95s
-TM95s
+TM95
 TM96s
-TM96s
+TM96
 TM97s
-TM97s
+TM97
 TM98s
-TM98s
+TM98
 TM99s
-TM99s
+TM99
 TM100s
-TM100s
+TM100
 HM01s
-HM01s
+VM01
 HM02s
-HM02s
+VM02
 HM03s
-HM03s
+VM03
 HM04s
-HM04s
+VM04
 HM05s
-HM05s
+VM05
 HM06s
-HM06s
+VM06
 Cheri Berries
-Cheri Berries
+Amrena-Beeren
 Chesto Berries
-Chesto Berries
+Maronbeeren
 Pecha Berries
-Pecha Berries
+Pirsifbeeren
 Rawst Berries
-Rawst Berries
+Fragiabeeren
 Aspear Berries
-Aspear Berries
+Wilbirbeeren
 Leppa Berries
-Leppa Berries
+Jonagobeeren
 Oran Berries
-Oran Berries
+Sinelbeeren
 Persim Berries
-Persim Berries
+Persimbeeren
 Lum Berries
-Lum Berries
+Prunusbeeren
 Sitrus Berries
-Sitrus Berries
+Tsitrubeeren
 Figy Berries
-Figy Berries
+Giefebeeren
 Wiki Berries
-Wiki Berries
+Wikibeeren
 Mago Berries
-Mago Berries
+Magobeeren
 Aguav Berries
-Aguav Berries
+Gauvebeeren
 Iapapa Berries
-Iapapa Berries
+Yapabeeren
 Razz Berries
-Razz Berries
+Himmihbeeren
 Bluk Berries
-Bluk Berries
+Morbbeeren
 Nanab Berries
-Nanab Berries
+Nanabbeeren
 Wepear Berries
-Wepear Berries
+Nirbebeeren
 Pinap Berries
-Pinap Berries
+Sananabeeren
 Pomeg Berries
-Pomeg Berries
+Granabeeren
 Kelpsy Berries
-Kelpsy Berries
+Setangbeeren
 Qualot Berries
-Qualot Berries
+Qualotbeeren
 Hondew Berries
-Hondew Berries
+Honmelbeeren
 Grepa Berries
-Grepa Berries
+Labrusbeeren
 Tamato Berries
-Tamato Berries
+Tamotbeeren
 Cornn Berries
-Cornn Berries
+Saimbeeren
 Magost Berries
-Magost Berries
+Magostbeeren
 Rabuta Berries
-Rabuta Berries
+Rabutabeeren
 Nomel Berries
-Nomel Berries
+Tronzibeeren
 Spelon Berries
-Spelon Berries
+Kiwanbeeren
 Pamtre Berries
-Pamtre Berries
+Pallmbeeren
 Watmel Berries
-Watmel Berries
+Wasmelbeeren
 Durin Berries
-Durin Berries
+Durinbeeren
 Belue Berries
-Belue Berries
+Myrtilbeeren
 Occa Berries
-Occa Berries
+Koakobeeren
 Passho Berries
-Passho Berries
+Foepasbeeren
 Wacan Berries
-Wacan Berries
+Kerzalbeeren
 Rindo Berries
-Rindo Berries
+Grindobeeren
 Yache Berries
-Yache Berries
+Schukebeeren
 Chople Berries
-Chople Berries
+Kebibeeren
 Kebia Berries
-Kebia Berries
+Kiroyabeeren
 Shuca Berries
-Shuca Berries
+Terirobeeren
 Coba Berries
-Coba Berries
+Pyapabeeren
 Payapa Berries
-Payapa Berries
+Tanigabeeren
 Tanga Berries
-Tanga Berries
+Chartribeeren
 Charti Berries
-Charti Berries
+Magostbeeren
 Kasib Berries
-Kasib Berries
+Kosibeeren
 Haban Berries
-Haban Berries
+Babiribeeren
 Colbur Berries
-Colbur Berries
+Latchibeeren
 Babiri Berries
-Babiri Berries
+Tahaybeeren
 Roseli Berries
-Roseli Berries
+Hibisbeeren
 Chilan Berries
-Chilan Berries
+Zitarzbeeren
 Liechi Berries
-Liechi Berries
+Lydzibeeren
 Ganlon Berries
-Ganlon Berries
+Linganbeeren
 Salac Berries
-Salac Berries
+Salkabeeren
 Petaya Berries
-Petaya Berries
+Tahaybeeren
 Apicot Berries
-Apicot Berries
+Apikobeeren
 Lansat Berries
-Lansat Berries
+Lansatbeeren
 Starf Berries
-Starf Berries
+Krambobeeren
 Enigma Berries
-Enigma Berries
+Enigmabeeren
 Micle Berries
-Micle Berries
+Wunfrubeeren
 Custap Berries
-Custap Berries
+Eipfelbeeren
 Jaboca Berries
-Jaboca Berries
+Jabocabeeren
 Rowap Berries
-Rowap Berries
+Roselbeeren
 Kee Berries
-Kee Berries
+Koakobeeren
 Maranga Berries
-Maranga Berries
+Marangabeeren
 Grass Mail
-Grass Mail
+Grünbrief
 Flame Mail
-Flame Mail
+Flammenbrief
 Bubble Mail
-Bubble Mail
+Blasenbrief
 Bloom Mail
-Bloom Mail
+Blütenbrief
 Tunnel Mail
-Tunnel Mail
+Tunnelbrief
 Steel Mail
-Steel Mail
+Stahlbrief
 Heart Mail
-Heart Mail
+Herzbrief
 Snow Mail
-Snow Mail
+Schneebrief
 Space Mail
-Space Mail
+Raumbrief
 Air Mail
-Air Mail
+Luftbrief
 Mosaic Mail
-Mosaic Mail
+Mosaik-Brief
 Brick Mail
-Brick Mail
+Ziegelbrief
 X Attacks
-X Attacks
+X-Angriff
 X Attack 2s
-X Attack 2s
+X-Angriff 2
 X Attack 3s
-X Attack 3s
+X-Angriff 3
 X Attack 6s
-X Attack 6s
+X-Angriff 6
 X Defenses
-X Defenses
+X-Verteidigung
 X Defends
-X Defends
+X-Verteidigung
 X Defense 2s
-X Defense 2s
+X-Verteidigung 2
 X Defend 2s
-X Defend 2s
+X-Verteidigung 2
 X Defense 3s
-X Defense 3s
+X-Verteidigung 3
 X Defend 3s
-X Defend 3s
+X-Verteidigung 3
 X Defense 6s
-X Defense 6s
+X-Verteidigung 6
 X Defend 6s
-X Defend 6s
+X-Verteidigung 6
 X Sp. Atks
-X Sp. Atks
+X-Spezial-Angriff
 X Specials
-X Specials
+X-Spezial
 X Sp. Atk 2s
-X Sp. Atk 2s
+X-Spezial-Angriff 2
 X Special 2s
-X Special 2s
+X-Spezial 2
 X Sp. Atk 3s
-X Sp. Atk 3s
+X-Spezial-Angriff 3
 X Special 3s
-X Special 3s
+X-Spezial 3
 X Sp. Atk 6s
-X Sp. Atk 6s
+X-Spezial-Angriff 6
 X Special 6s
-X Special 6s
+X-Spezial 6
 X Sp. Defs
-X Sp. Defs
+X-Spezial-Verteidigung
 X Sp. Def 2s
-X Sp. Def 2s
+X-Spezial-Verteidigung 2
 X Sp. Def 3s
-X Sp. Def 3s
+X-Spezial-Verteidigung 3
 X Sp. Def 6s
-X Sp. Def 6s
+X-Spezial-Verteidigung 6
 X Speeds
-X Speeds
+X-Tempo
 X Speed 2s
-X Speed 2s
+X-Tempo 2
 X Speed 3s
-X Speed 3s
+X-Tempo 3
 X Speed 6s
-X Speed 6s
+X-Tempo 6
 X Accuracies
-X Accuracies
+X-Treffer
 X Accuracy 2s
-X Accuracy 2s
+X-Treffer 2
 X Accuracy 3s
-X Accuracy 3s
+X-Treffer 3
 X Accuracy 6s
-X Accuracy 6s
+X-Treffer 6
 Max Mushrooms
-Max Mushrooms
+Gigapilze
 Dire Hits
-Dire Hits
+X-Volltreffer
 Dire Hit 2s
-Dire Hit 2s
+X-Volltreffer 2
 Dire Hit 3s
-Dire Hit 3s
+X-Volltreffer 3
 Guard Specs.
-Guard Specs.
+X-Abwehr
 Reset Urges
-Reset Urges
+Urge zurücksetzen
 Ability Urges
-Ability Urges
+Fähigkeiten-Drang
 Item Urges
-Item Urges
+Item-Drang
 Item Drops
-Item Drops
+Item-Abwurf
 Blue Flutes
-Blue Flutes
+Blaue Flöten
 Yellow Flutes
-Yellow Flutes
+Gelbe Flöten
 Red Flutes
-Red Flutes
+Rote Flöten
 Poké Dolls
-Poké Dolls
+Poképuppen
 Fluffy Tails
-Fluffy Tails
+Flauschige Schweife
 Poké Toys
-Poké Toys
+Pokéspielzeuge
 Bicycles
-Bicycles
+Fahrräder
 Bikes
-Bikes
+Räder
 Old Rods
-Old Rods
+Angel
 Good Rods
-Good Rods
+Profiangel
 Super Rods
-Super Rods
+Superangel
 Itemfinders
-Itemfinders
+Itemradar
 Dowsing Machines
-Dowsing Machines
+Itemradar
 Dowsing MCHNs
-Dowsing MCHNs
+Itemradar
 Poké Radars
-Poké Radars
+Pokéradar
 Town Maps
-Town Maps
+Karten
 Escape Ropes
-Escape Ropes
+Fluchtseil
 Coin Cases
-Coin Cases
+Münzkorb
 Poké Flutes
-Poké Flutes
+Pokéflöten
 Soot Sacks
-Soot Sacks
+Aschesack
 Silph Scopes
-Silph Scopes
+Silph Scope
 Devon Scopes
-Devon Scopes
+Devon-Scope
 Squirt Bottles
-Squirt Bottles
+Sprühflasche
 SquirtBottles
-SquirtBottles
+Sprühflasche
 Sprayducks
-Sprayducks
+Sprühenten
 Wailmer Pails
-Wailmer Pails
+Wailmereimer
 Sprinklotads
-Sprinklotads
+Loturzel-Gießkannen
 Gracideas
-Gracideas
+Gracidea-Blumen
 Reveal Glasses
-Reveal Glasses
+Wahrsichtglas
 Prison Bottles
-Prison Bottles
+Bannflasche
 Rotom Catalogs
-Rotom Catalogs
+Rotom-Katalog
 Zygarde Cubes
-Zygarde Cubes
+Zygarde-Würfel
 DNA Splicers
-DNA Splicers
+DNS-Keil
 N-Solarizers
-N-Solarizers
+Necro-Sonn
 N-Lunarizers
-N-Lunarizers
+Necro-Mond
 Reins of Unity
-Reins of Unity
+Zügel der Einheit
 Oval Charms
-Oval Charms
+Ovalcharms
 Shiny Charms
-Shiny Charms
+Schillerpin
 Catching Charms
-Catching Charms
+Fangcharm
 Exp. Charms
-Exp. Charms
+EP-Charm
 Mega Rings
-Mega Rings
+Mega-Ringe
 Pokémon Box Links
-Pokémon Box Links
+Pokémon Box-Links
 Pokémon Boxes
-Pokémon Boxes
+Pokémon-Boxen
 Aurora Tickets
-Aurora Tickets
+Auroratickets
 Old Sea Maps
-Old Sea Maps
+Alte Seekarten

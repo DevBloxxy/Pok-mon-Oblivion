@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
 [POKEMONTRAINER_Red]
 Name = Pokémon Trainer
@@ -403,4 +403,9 @@ VictoryBGM = Battle victory leader
 [CAMPERMOM]
 Name = Unnamed
 Gender = Female
+BaseMoney = 30
+#-------------------------------
+[RIVAL]
+Name = Unnamed
+Gender = Male
 BaseMoney = 30

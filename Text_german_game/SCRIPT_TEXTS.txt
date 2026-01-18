@@ -1,0 +1,36 @@
+﻿# To localize this text for a particular language, please
+# translate every second line of this file.
+#-------------------------------
+[SCRIPT_TEXTS]
+Kanto Pokédex
+Kanto Pokédex
+Johto Pokédex
+Johto Pokédex
+My Game by:
+My Game by:
+Also involved were:
+Also involved were:
+Special thanks to:
+Special thanks to:
+Field '{1}' is not an integer.
+Field '{1}' is not an integer.
+Field '{1}' is not a positive integer or 0.
+Field '{1}' is not a positive integer or 0.
+Field '{1}' is not a positive integer.
+Field '{1}' is not a positive integer.
+Field '{1}' must be greater than 0.
+Field '{1}' must be greater than 0.
+Field '{1}' is not a hexadecimal number.
+Field '{1}' is not a hexadecimal number.
+Field '{1}' is not a number.
+Field '{1}' is not a number.
+Field '{1}' is not a Boolean value (true, false, 1, 0).
+Field '{1}' is not a Boolean value (true, false, 1, 0).
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.
+Field '{1}' must contain only letters, digits, and<<n>>underscores and can't begin with a number.
+'{1}' is not a defined type (type {2}, Weaknesses).
+'{1}' is not a defined type (type {2}, Weaknesses).
+'{1}' is not a defined type (type {2}, Resistances).
+'{1}' is not a defined type (type {2}, Resistances).
+'{1}' is not a defined type (type {2}, Immunities).
+'{1}' is not a defined type (type {2}, Immunities).
