@@ -1,32 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
-# Safari Zone outside (66) - Lappet Town (2)
-66,East,0,2,West,0
-# Route 8 (69) - Lappet Town (2)
-69,North,12,2,South,0
-# Lerucean Town (23) - Cedolan City (7)
-23,West,78,7,East,0
-# Route 2 (21) - Cedolan City (7)
-21,South,0,7,North,21
-# Route 7 (47) - Cedolan City (7)
-47,West,0,7,East,0
-# Route 6 (44) - Cedolan City (7)
-44,East,0,7,West,5
-# Route 2 (21) - Lerucean Town (23)
-21,East,0,23,West,1
-# Route 7 (47) - Route 2 (21)
-47,West,0,21,East,77
-# Route 3 (32) - Oakleaf Town (22)
-32,North,6,22,South,0
-# Oakleaf Town (22) - Route 3 (31)
-22,0,68,31,156,0
-# Route 4 (39) - Ingido Plateau outside (35)
-39,East,0,35,West,11
-# Route 5 (41) - Route 4 Cycling Road (40)
-41,North,0,40,South,0
-# Route 5 (41) - Route 6 Cycling Road (45)
-41,South,6,45,North,0
-# Battle Frontier (52) - Route 7 (47)
-52,West,0,47,East,8
-# Route 8 (69) - Safari Zone outside (66)
-69,North,0,66,South,10
+# Route 1 (2) - Oakleaf Town (22)
+2,West,0,22,East,3

@@ -3,24 +3,24 @@
 [001]   # Intro
 Name = Intro
 #-------------------------------
-[002]   # Lappet Town
-Name = Lappet Town
+[002]   # Route 1
+Name = Route 1
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,12
+MapPosition = 2,21,13
 BattleBack = field
 #-------------------------------
 [003]   # Player's house
 Name = Oakleaf Town
-HealingSpot = 22,8,8
+HealingSpot = 22,12,12
 MapPosition = 2,24,11
 #-------------------------------
-[004]   # Pokémon Lab
+[004]
 Name = Pokémon Lab
 ShowArea = true
 MapPosition = 2,24,11
 #-------------------------------
-[005]   # Route 1
+[005]
 Name = Route 1
 Outdoor = true
 ShowArea = true
@@ -31,11 +31,11 @@ TrainerBattleBGM = FRLG 11 Battle (VS Trainer)
 WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon)
 TrainerVictoryBGM = FRLG 12 Victory (VS Trainer)
 #-------------------------------
-[006]   # Kurt's house
+[006]
 Name = Route 1
 MapPosition = 0,13,11
 #-------------------------------
-[007]   # Cedolan City
+[007]
 Name = Cedolan City
 Outdoor = true
 ShowArea = true
@@ -46,59 +46,59 @@ MapSize = 2,11
 Name = Oakleaf Town
 MapPosition = 2,24,11
 #-------------------------------
-[009]   # Cedolan City Poké Center
+[009]
 Name = Cedolan City
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]   # Cedolan Gym
+[010]
 Name = Cedolan City
 MapPosition = 0,13,10
 BattleBack = indoor3
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
-[011]   # Pokémon Institute
+[011]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[012]   # Cedolan City Condo
+[012]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[013]   # Game Corner
+[013]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[014]   # Cedolan Dept. 1F
+[014]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[015]   # Cedolan Dept. 2F
+[015]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[016]   # Cedolan Dept. 3F
+[016]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[017]   # Cedolan Dept. 4F
+[017]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[018]   # Cedolan Dept. 5F
+[018]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[019]   # Cedolan Dept. Rooftop
+[019]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[020]   # Cedolan Dept. Elevator
+[020]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[021]   # Route 2
+[021]
 Name = Route 2
 Outdoor = true
 ShowArea = true
@@ -114,30 +114,30 @@ ShowArea = true
 Bicycle = true
 MapPosition = 2,24,11
 #-------------------------------
-[023]   # Lerucean Town
+[023]
 Name = Lerucean Town
 Outdoor = true
 ShowArea = true
 MapPosition = 0,15,8
 #-------------------------------
-[024]   # Lerucean Town Poké Center
+[024]
 Name = Lerucean Town
 HealingSpot = 23,11,15
 MapPosition = 0,15,8
 #-------------------------------
-[025]   # Lerucean Town Mart
+[025]
 Name = Lerucean Town
 MapPosition = 0,15,8
 #-------------------------------
-[026]   # Pokémon Fan Club
+[026]
 Name = Lerucean Town
 MapPosition = 0,15,8
 #-------------------------------
-[027]   # Pokémon Day Care
+[027]
 Name = Lerucean Town
 MapPosition = 0,15,8
 #-------------------------------
-[028]   # Natural Park
+[028]
 Name = Natural Park
 Outdoor = true
 ShowArea = true
@@ -145,18 +145,18 @@ MapPosition = 0,16,8
 BattleBack = field
 Flags = MossRock,BugContest
 #-------------------------------
-[029]   # Natural Park Entrance
+[029]
 Name = Natural Park
 Bicycle = true
 MapPosition = 0,16,8
 Flags = BugContestReception
 #-------------------------------
-[030]   # Natural Park Pavillion
+[030]
 Name = Natural Park
 MapPosition = 0,16,8
 Flags = BugContestReception
 #-------------------------------
-[031]   # Route 3
+[031]   # Route
 Name = Route 3
 Outdoor = true
 ShowArea = true
@@ -164,7 +164,7 @@ MapPosition = 0,14,6
 BattleBack = field
 MapSize = 2,1101
 #-------------------------------
-[032]   # Route 3
+[032]
 Name = Route 3
 Outdoor = true
 ShowArea = true
@@ -174,10 +174,10 @@ TrainerBattleBGM = FRLG 11 Battle (VS Trainer)
 WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon)
 TrainerVictoryBGM = FRLG 12 Victory (VS Trainer)
 #-------------------------------
-[033]   # Forest
+[033]
 Name = Forest
 #-------------------------------
-[034]   # Ice Cave
+[034]
 Name = Route 3
 Bicycle = true
 MapPosition = 0,15,6
@@ -185,29 +185,29 @@ BattleBack = cave1
 Environment = Cave
 Flags = IceRock
 #-------------------------------
-[035]   # Ingido Plateau outside
+[035]
 Name = Ingido Plateau
 Outdoor = true
 ShowArea = true
 MapPosition = 0,13,6
 #-------------------------------
-[036]   # Pokémon League entrance
+[036]
 Name = Ingido Plateau
 HealingSpot = 35,17,7
 MapPosition = 0,13,6
 #-------------------------------
-[037]   # Pokémon League room 1
+[037]
 Name = Ingido Plateau
 MapPosition = 0,13,6
 BattleBack = elite1
 Flags = DisableBoxLink
 #-------------------------------
-[038]   # Hall of Fame
+[038]
 Name = Ingido Plateau
 MapPosition = 0,13,6
 Flags = DisableBoxLink
 #-------------------------------
-[039]   # Route 4
+[039]
 Name = Route 4
 Outdoor = true
 ShowArea = true
@@ -215,14 +215,14 @@ MapPosition = 0,11,6
 BattleBack = field
 MapSize = 2,11
 #-------------------------------
-[040]   # Route 4 Cycling Road
+[040]
 Name = Route 4
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,6
 #-------------------------------
-[041]   # Route 5
+[041]
 Name = Route 5
 Outdoor = true
 ShowArea = true
@@ -231,12 +231,13 @@ MapPosition = 0,11,7
 MapSize = 1,111
 #-------------------------------
 [043]   # Pokémon Lab
+Name = Pokémon Lab
 ShowArea = true
 MapPosition = 2,24,11
-TrainerBattleBGM = FRLG 11 Battle (VS Trainer)
+TrainerBattleBGM = Rival_Justin_Battle
 TrainerVictoryBGM = FRLG 12 Victory (VS Trainer)
 #-------------------------------
-[044]   # Route 6
+[044]
 Name = Route 6
 Outdoor = true
 ShowArea = true
@@ -244,14 +245,14 @@ MapPosition = 0,11,10
 BattleBack = field
 MapSize = 2,11
 #-------------------------------
-[045]   # Route 6 Cycling Road
+[045]
 Name = Route 6
 Outdoor = true
 ShowArea = true
 BicycleAlways = true
 MapPosition = 0,11,10
 #-------------------------------
-[046]   # Route 4 Cycling Road gate
+[046]
 Name = Route 4
 Bicycle = true
 MapPosition = 0,12,6
@@ -292,88 +293,88 @@ BattleBack = cave2
 Environment = Cave
 Flags = Magnetic,DistortionWorld,ScaleWildEncounterLevels
 #-------------------------------
-[052]   # Battle Frontier
+[052]
 Name = Battle Frontier
 Outdoor = true
 ShowArea = true
 MapPosition = 0,17,10
 #-------------------------------
-[053]   # Battle Frontier Poké Center
+[053]
 Name = Battle Frontier
 HealingSpot = 52,17,14
 MapPosition = 0,17,10
 #-------------------------------
-[054]   # Battle Frontier Mart
+[054]
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[055]   # Battle Tower
+[055]
 Name = Battle Frontier
 HealingSpot = 52,30,10
 MapPosition = 0,17,10
 #-------------------------------
-[056]   # Battle Tower arena
+[056]
 Name = Battle Frontier
 MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
-[057]   # Stadium Cup lobby
+[057]
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[058]   # Battle Palace
+[058]
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[059]   # Battle Palace arena
-Name = Battle Frontier
-MapPosition = 0,17,10
-BattleBack = indoor1
-Flags = DisableBoxLink
-#-------------------------------
-[060]   # Battle Arena
-Name = Battle Frontier
-MapPosition = 0,17,10
-#-------------------------------
-[061]   # Battle Arena arena
+[059]
 Name = Battle Frontier
 MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
-[062]   # Battle Factory
+[060]
 Name = Battle Frontier
 MapPosition = 0,17,10
 #-------------------------------
-[063]   # Battle Factory intro corridor
-Name = Battle Frontier
-MapPosition = 0,17,10
-Flags = DisableBoxLink
-#-------------------------------
-[064]   # Battle Factory arena
+[061]
 Name = Battle Frontier
 MapPosition = 0,17,10
 BattleBack = indoor1
 Flags = DisableBoxLink
 #-------------------------------
-[065]   # Battle Factory corridor
+[062]
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[063]
 Name = Battle Frontier
 MapPosition = 0,17,10
 Flags = DisableBoxLink
 #-------------------------------
-[066]   # Safari Zone outside
+[064]
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[065]
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[066]
 Name = Safari Zone
 Outdoor = true
 ShowArea = true
 MapPosition = 0,12,12
 BattleBack = field
 #-------------------------------
-[067]   # Safari Zone gate
+[067]
 Name = Safari Zone
 MapPosition = 0,12,12
 #-------------------------------
-[068]   # Safari Zone
+[068]
 Name = Safari Zone
 Outdoor = true
 ShowArea = true
@@ -382,7 +383,7 @@ SafariMap = true
 BattleBack = forest
 Environment = Forest
 #-------------------------------
-[069]   # Route 8
+[069]
 Name = Route 8
 Outdoor = true
 ShowArea = true
@@ -390,17 +391,17 @@ MapPosition = 0,13,13
 DiveMap = 70
 BattleBack = field
 #-------------------------------
-[070]   # Route 8 underwater
+[070]
 Name = Route 8
 MapPosition = 0,13,13
 BattleBack = underwater
 Environment = Underwater
 #-------------------------------
-[071]   # Route 8 harbor
+[071]
 Name = Route 8
 MapPosition = 0,13,13
 #-------------------------------
-[072]   # Berth Island
+[072]
 Name = Berth Island
 Outdoor = true
 ShowArea = true
@@ -409,7 +410,7 @@ MapPosition = 0,18,17
 BattleBack = field
 Flags = DistortionWorld
 #-------------------------------
-[073]   # Faraday Island
+[073]
 Name = Faraday Island
 Outdoor = true
 ShowArea = true
@@ -417,12 +418,12 @@ MapPosition = 0,22,16
 BattleBack = field
 Flags = DistortionWorld
 #-------------------------------
-[074]   # Route 6 Cycling Road gate
+[074]
 Name = Route 6
 Bicycle = true
 MapPosition = 0,12,10
 #-------------------------------
-[075]   # Tiall Region
+[075]
 Name = Tiall Region
 Outdoor = true
 MapPosition = 1,13,16
