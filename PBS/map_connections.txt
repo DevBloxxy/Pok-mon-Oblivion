@@ -1,4 +1,6 @@
 ﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
-# Route 1 (2) - Oakleaf Town (22)
-2,West,0,22,East,3
+# Oakleaf Town (22) - Route 1 (2)
+22,East,3,2,West,0
+# Nightshade Village (4) - Route 1 (2)
+4,West,11,2,East,0

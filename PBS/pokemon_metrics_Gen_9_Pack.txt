@@ -1,4 +1,4 @@
-# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
 [GROWLITHE,1]
 BackSprite = 0,0
@@ -151,12 +151,6 @@ ShadowX = 0
 ShadowSize = 3
 #-------------------------------
 [BASCULEGION]
-BackSprite = 0,0
-FrontSprite = 5,5
-ShadowX = 0
-ShadowSize = 2
-#-------------------------------
-[BASCULEGION,1]
 BackSprite = 0,0
 FrontSprite = 5,5
 ShadowX = 0

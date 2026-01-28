@@ -7,18 +7,33 @@ Name = Intro
 Name = Route 1
 Outdoor = true
 ShowArea = true
-MapPosition = 2,21,13
+Bicycle = true
+Weather = Rain,100
+MapPosition = 2,19,13
 BattleBack = field
+WildBattleBGM = FRLG 18 Battle (VS Wild Pokemon)
+TrainerBattleBGM = FRLG 11 Battle (VS Trainer)
+WildVictoryBGM = FRLG 19 Victory (VS Wild Pokemon)
+TrainerVictoryBGM = FRLG 12 Victory (VS Trainer)
+WildCaptureME = FRLG 54 Fanfare! Pokemon Caught
 #-------------------------------
 [003]   # Player's house
 Name = Oakleaf Town
 HealingSpot = 22,12,12
-MapPosition = 2,24,11
+MapPosition = 2,17,13
 #-------------------------------
-[004]
-Name = Pokémon Lab
+[004]   # Nightshade Village
+Name = Nightshade Village
+Outdoor = true
 ShowArea = true
-MapPosition = 2,24,11
+Bicycle = true
+Weather = Storm,100
+MapPosition = 2,21,13
+WildBattleBGM = RBY 110 Battle! (Wild Pokemon)
+TrainerBattleBGM = RBY 107 Battle! (Trainer)
+WildVictoryBGM = RBY 111 Victory! (Wild Pokemon)
+TrainerVictoryBGM = RBY 108 Victory! (Trainer)
+Environment = None
 #-------------------------------
 [005]
 Name = Route 1
@@ -44,7 +59,7 @@ MapSize = 2,11
 #-------------------------------
 [008]   # Daisy's house
 Name = Oakleaf Town
-MapPosition = 2,24,11
+MapPosition = 2,17,13
 #-------------------------------
 [009]
 Name = Cedolan City
@@ -112,7 +127,7 @@ Name = Oakleaf Town
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 2,24,11
+MapPosition = 2,17,13
 #-------------------------------
 [023]
 Name = Lerucean Town
@@ -120,13 +135,13 @@ Outdoor = true
 ShowArea = true
 MapPosition = 0,15,8
 #-------------------------------
-[024]
-Name = Lerucean Town
-HealingSpot = 23,11,15
-MapPosition = 0,15,8
+[024]   # Poke Center
+Name = Poke Center
+HealingSpot = 4,5,13
+MapPosition = 2,21,13
 #-------------------------------
-[025]
-Name = Lerucean Town
+[025]   # Poke Mart
+Name = Poke Mart
 MapPosition = 0,15,8
 #-------------------------------
 [026]
@@ -233,7 +248,7 @@ MapSize = 1,111
 [043]   # Pokémon Lab
 Name = Pokémon Lab
 ShowArea = true
-MapPosition = 2,24,11
+MapPosition = 2,17,13
 TrainerBattleBGM = Rival_Justin_Battle
 TrainerVictoryBGM = FRLG 12 Victory (VS Trainer)
 #-------------------------------

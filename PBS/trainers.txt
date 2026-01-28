@@ -123,12 +123,12 @@ Pokemon = ZYGARDE,33
 #-------------------------------
 [RIVAL1,Justin,1]
 LoseText = I choose the wrong Pokémon
-Pokemon = GASTLY,5
+Pokemon = CHESPIN,5
 #-------------------------------
 [RIVAL1,Justin,3]
 LoseText = I choose the wrong Pokémon
-Pokemon = ABRA,5
+Pokemon = FENNEKIN,5
 #-------------------------------
 [RIVAL1,Justin,2]
 LoseText = I choose the wrong Pokémon
-Pokemon = MACHOP,5
+Pokemon = FROAKIE,5

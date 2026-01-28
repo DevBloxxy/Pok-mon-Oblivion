@@ -409,3 +409,13 @@ BaseMoney = 30
 Name = Unnamed
 Gender = Male
 BaseMoney = 30
+#-------------------------------
+[POKEMONTRAINER]
+Name = Unnamed
+Gender = Male
+BaseMoney = 30
+#-------------------------------
+[POKEMONTRAINER_RED_OLD]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 30

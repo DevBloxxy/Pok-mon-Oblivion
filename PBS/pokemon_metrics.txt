@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Siehe die Dokumentation im Wiki, um zu lernen, wie man diese Datei bearbeitet.
 #-------------------------------
 [BULBASAUR]
 BackSprite = 0,58
@@ -6239,3 +6239,27 @@ BackSprite = 3,50
 FrontSprite = 1,17
 ShadowX = 0
 ShadowSize = 1
+#-------------------------------
+[OVERQWIL]
+BackSprite = 0,0
+FrontSprite = 0,0
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[SPROUTAUR]
+BackSprite = -5,38
+FrontSprite = 0,21
+ShadowX = 0
+ShadowSize = 2
+#-------------------------------
+[DRIPFIN]
+BackSprite = -2,46
+FrontSprite = 4,25
+ShadowX = 1
+ShadowSize = 2
+#-------------------------------
+[EMBERCUB]
+BackSprite = -3,32
+FrontSprite = 0,17
+ShadowX = 0
+ShadowSize = 2
